@@ -1,0 +1,48 @@
+﻿
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<body>
+
+        
+    <div id="connect" class="flex-columnwise">
+
+        <!-- Connect To Core Button -->
+        <div class="data-block">
+            <div class="flex-rowwise">
+                <img src="~/Images/core-mini-logo-white.png" />
+                <label>Connect to Core</label>
+                @*<button OnClick="ConnectCore_Click" ID="btnCtcCore" CssClass="button" Text="Connect"></button>*@
+                @*@Url.Action("ConnectCore_Click", "CoreOAuth2", new { @class = "button" })*@
+                @Html.ActionLink("Connect", "ConnectCore_Click", "CoreOAuth2", null, new { @class = "button" })
+            </div>
+        </div>
+
+        <!-- Sign In With BQE Button -->
+        <div class="data-block">
+            <div class="flex-rowwise">
+                <img src="~/Images/core-mini-logo-white.png" />
+                <label>Sign In with Core</label>
+                @*<button OnClick="SIWC_Click" ID="btnSIWC" CssClass="button" Text="Sign In" />*@
+                @Html.ActionLink("Sign In", "SIWC_Click", "CoreOAuth2", null, new { @class = "button" })
+            </div>
+        </div>
+
+
+        <!-- Get App Now -->
+        @*<div class="data-block">
+            <div class="flex-rowwise">
+                <img src="~/Images/core-mini-logo-white.png" />
+                <label>Get App Now</label>
+                <button OnClick="OpenId_Click" ID="btnOpenId" CssClass="button" Text="Get App"></button>
+            </div>
+        </div>*@
+    </div>
+
+                
+
+
+    @*<script src="js/prism.js"></script>*@
+</body>
+</html>
+
+

@@ -1,0 +1,2469 @@
+1/24/2019 3:09:44 PM: Fetching Discovery Data..
+1/24/2019 3:09:45 PM: Discovery Data obtained..
+1/24/2019 3:09:45 PM: Making Get JWKS Keys Call..
+1/24/2019 3:09:45 PM: JWKS Keys obtained..
+1/24/2019 3:09:45 PM: Intiating OAuth2 call to get code..
+1/24/2019 3:09:54 PM: Authorization code obtained..
+1/24/2019 3:09:54 PM: Exchanging code for tokens..
+1/24/2019 3:09:55 PM: Access token obtained..
+1/24/2019 3:09:55 PM: Making Get User Profile Call..
+1/24/2019 3:09:55 PM: HTTP Status: Forbidden.
+1/24/2019 3:09:55 PM: Bearer,error="insufficient_scope".
+1/24/2019 3:10:03 PM: Making Core API Call..
+1/24/2019 3:10:05 PM: Communication with Core OK..
+1/24/2019 3:10:56 PM: Performing Revoke tokens..
+1/24/2019 3:11:07 PM: HTTP Status: UnsupportedMediaType.
+1/24/2019 3:11:07 PM: Token revoked..
+1/24/2019 3:11:33 PM: Fetching Discovery Data..
+1/24/2019 3:11:33 PM: Discovery Data obtained..
+1/24/2019 3:11:35 PM: Making Get JWKS Keys Call..
+1/24/2019 3:11:35 PM: JWKS Keys obtained..
+1/24/2019 3:11:36 PM: Intiating OAuth2 call to get code..
+1/24/2019 3:11:49 PM: Authorization code obtained..
+1/24/2019 3:11:49 PM: Exchanging code for tokens..
+1/24/2019 3:11:58 PM: Access token obtained..
+1/24/2019 3:11:59 PM: Making Get User Profile Call..
+1/24/2019 3:12:01 PM: HTTP Status: Forbidden.
+1/24/2019 3:12:01 PM: Bearer,error="insufficient_scope".
+1/24/2019 3:12:20 PM: Making Core API Call..
+1/24/2019 3:12:22 PM: Communication with Core OK..
+1/24/2019 3:12:40 PM: Performing Revoke tokens..
+1/24/2019 3:12:52 PM: HTTP Status: UnsupportedMediaType.
+1/24/2019 3:13:16 PM: Token revoked..
+1/24/2019 3:13:28 PM: Making Core API Call..
+1/24/2019 3:13:43 PM: Communication with Core OK..
+1/24/2019 3:14:09 PM: Performing Revoke tokens..
+1/24/2019 3:14:36 PM: HTTP Status: UnsupportedMediaType.
+1/24/2019 3:14:36 PM: Token revoked..
+1/24/2019 3:15:43 PM: Fetching Discovery Data..
+1/24/2019 3:15:44 PM: Discovery Data obtained..
+1/24/2019 3:15:49 PM: Making Get JWKS Keys Call..
+1/24/2019 3:15:51 PM: JWKS Keys obtained..
+1/24/2019 3:15:58 PM: Intiating OAuth2 call to get code..
+1/24/2019 3:16:52 PM: Fetching Discovery Data..
+1/24/2019 3:16:53 PM: Discovery Data obtained..
+1/24/2019 3:17:02 PM: Making Get JWKS Keys Call..
+1/24/2019 3:17:08 PM: JWKS Keys obtained..
+1/24/2019 3:17:16 PM: Intiating OAuth2 call to get code..
+1/24/2019 3:27:58 PM: Invalid State.
+1/24/2019 3:28:47 PM: Fetching Discovery Data..
+1/24/2019 3:28:48 PM: Discovery Data obtained..
+1/24/2019 3:28:48 PM: Making Get JWKS Keys Call..
+1/24/2019 3:30:48 PM: JWKS Keys obtained..
+1/24/2019 3:30:48 PM: Intiating OAuth2 call to get code..
+1/24/2019 3:30:57 PM: Fetching Discovery Data..
+1/24/2019 3:30:58 PM: Discovery Data obtained..
+1/24/2019 3:30:58 PM: Making Get JWKS Keys Call..
+1/24/2019 3:30:59 PM: JWKS Keys obtained..
+1/24/2019 3:30:59 PM: Intiating OAuth2 call to get code..
+1/24/2019 3:31:09 PM: Fetching Discovery Data..
+1/24/2019 3:31:10 PM: Discovery Data obtained..
+1/24/2019 3:31:10 PM: Making Get JWKS Keys Call..
+1/24/2019 3:31:14 PM: JWKS Keys obtained..
+1/24/2019 3:31:14 PM: Intiating OAuth2 call to get code..
+1/24/2019 3:31:42 PM: Invalid State.
+1/24/2019 3:33:05 PM: Fetching Discovery Data..
+1/24/2019 3:33:07 PM: Discovery Data obtained..
+1/24/2019 3:33:07 PM: Making Get JWKS Keys Call..
+1/24/2019 3:33:09 PM: JWKS Keys obtained..
+1/24/2019 3:33:09 PM: Intiating OAuth2 call to get code..
+1/24/2019 3:33:23 PM: Authorization code obtained..
+1/24/2019 3:33:24 PM: Exchanging code for tokens..
+1/24/2019 3:33:49 PM: Making IsIdToken Valid Call..
+1/24/2019 3:39:25 PM: Fetching Discovery Data..
+1/24/2019 3:39:27 PM: Discovery Data obtained..
+1/24/2019 3:39:27 PM: Making Get JWKS Keys Call..
+1/24/2019 3:39:35 PM: JWKS Keys obtained..
+1/24/2019 3:39:35 PM: Intiating OAuth2 call to get code..
+1/24/2019 3:41:01 PM: Fetching Discovery Data..
+1/24/2019 3:41:02 PM: Discovery Data obtained..
+1/24/2019 3:41:02 PM: Making Get JWKS Keys Call..
+1/24/2019 3:41:02 PM: JWKS Keys obtained..
+1/24/2019 3:41:02 PM: Intiating OAuth2 call to get code..
+1/24/2019 3:41:50 PM: Fetching Discovery Data..
+1/24/2019 3:41:51 PM: Discovery Data obtained..
+1/24/2019 3:41:51 PM: Making Get JWKS Keys Call..
+1/24/2019 3:41:51 PM: JWKS Keys obtained..
+1/24/2019 3:41:51 PM: Intiating OAuth2 call to get code..
+1/24/2019 3:41:57 PM: Invalid State.
+1/24/2019 3:42:15 PM: Fetching Discovery Data..
+1/24/2019 3:42:15 PM: Discovery Data obtained..
+1/24/2019 3:42:15 PM: Making Get JWKS Keys Call..
+1/24/2019 3:42:15 PM: JWKS Keys obtained..
+1/24/2019 3:42:15 PM: Intiating OAuth2 call to get code..
+1/24/2019 3:42:19 PM: Authorization code obtained..
+1/24/2019 3:42:19 PM: Exchanging code for tokens..
+1/24/2019 3:42:19 PM: Access token obtained..
+1/24/2019 3:42:19 PM: Making Get User Profile Call..
+1/24/2019 3:42:20 PM: HTTP Status: Forbidden.
+1/24/2019 3:42:20 PM: Bearer,error="insufficient_scope".
+1/24/2019 3:42:36 PM: Making Core API Call..
+1/24/2019 3:42:45 PM: Communication with Core OK..
+1/24/2019 4:08:34 PM: Fetching Discovery Data..
+1/24/2019 4:08:41 PM: Discovery Data obtained..
+1/24/2019 4:08:41 PM: Making Get JWKS Keys Call..
+1/24/2019 4:08:41 PM: JWKS Keys obtained..
+1/24/2019 4:08:41 PM: Intiating OAuth2 call to get code..
+1/24/2019 4:31:40 PM: Fetching Discovery Data..
+1/24/2019 4:31:43 PM: Fetching Discovery Data..
+1/24/2019 4:31:44 PM: Fetching Discovery Data..
+1/24/2019 4:31:45 PM: Fetching Discovery Data..
+1/24/2019 4:31:46 PM: Fetching Discovery Data..
+1/24/2019 4:31:46 PM: Fetching Discovery Data..
+1/24/2019 4:31:46 PM: Fetching Discovery Data..
+1/24/2019 4:31:46 PM: Discovery Data obtained..
+1/24/2019 4:31:50 PM: Discovery Data obtained..
+1/24/2019 4:31:50 PM: Making Get JWKS Keys Call..
+1/24/2019 4:31:52 PM: Discovery Data obtained..
+1/24/2019 4:31:52 PM: Making Get JWKS Keys Call..
+1/24/2019 4:32:32 PM: Discovery Data obtained..
+1/24/2019 4:32:32 PM: Making Get JWKS Keys Call..
+1/24/2019 4:32:32 PM: JWKS Keys obtained..
+1/24/2019 4:32:32 PM: Intiating OAuth2 call to get code..
+1/24/2019 4:33:06 PM: Fetching Discovery Data..
+1/24/2019 4:33:08 PM: Discovery Data obtained..
+1/24/2019 4:33:08 PM: Making Get JWKS Keys Call..
+1/24/2019 4:33:11 PM: JWKS Keys obtained..
+1/24/2019 4:33:11 PM: Intiating OAuth2 call to get code..
+1/24/2019 4:33:29 PM: Fetching Discovery Data..
+1/24/2019 4:33:29 PM: Discovery Data obtained..
+1/24/2019 4:33:29 PM: Making Get JWKS Keys Call..
+1/24/2019 4:33:30 PM: JWKS Keys obtained..
+1/24/2019 4:33:30 PM: Intiating OAuth2 call to get code..
+1/24/2019 4:33:58 PM: Invalid State.
+1/24/2019 4:34:48 PM: Fetching Discovery Data..
+1/24/2019 4:34:49 PM: Fetching Discovery Data..
+1/24/2019 4:34:49 PM: Discovery Data obtained..
+1/24/2019 4:34:49 PM: Making Get JWKS Keys Call..
+1/24/2019 4:34:51 PM: JWKS Keys obtained..
+1/24/2019 4:34:51 PM: Intiating OAuth2 call to get code..
+1/24/2019 4:34:52 PM: Discovery Data obtained..
+1/24/2019 4:34:52 PM: Making Get JWKS Keys Call..
+1/24/2019 4:34:53 PM: JWKS Keys obtained..
+1/24/2019 4:34:53 PM: Intiating OAuth2 call to get code..
+1/24/2019 4:35:00 PM: Authorization code obtained..
+1/24/2019 4:35:00 PM: Exchanging code for tokens..
+1/24/2019 4:35:33 PM: Making IsIdToken Valid Call..
+1/24/2019 4:35:43 PM: Fetching Discovery Data..
+1/24/2019 4:35:43 PM: Discovery Data obtained..
+1/24/2019 4:35:43 PM: Making Get JWKS Keys Call..
+1/24/2019 4:35:45 PM: JWKS Keys obtained..
+1/24/2019 4:35:45 PM: Intiating OAuth2 call to get code..
+1/24/2019 4:35:46 PM: Invalid State.
+1/24/2019 4:35:50 PM: Fetching Discovery Data..
+1/24/2019 4:35:50 PM: Discovery Data obtained..
+1/24/2019 4:35:50 PM: Making Get JWKS Keys Call..
+1/24/2019 4:35:51 PM: JWKS Keys obtained..
+1/24/2019 4:35:51 PM: Intiating OAuth2 call to get code..
+1/24/2019 4:35:53 PM: Authorization code obtained..
+1/24/2019 4:35:53 PM: Exchanging code for tokens..
+1/24/2019 4:35:55 PM: Making IsIdToken Valid Call..
+1/24/2019 4:43:50 PM: Fetching Discovery Data..
+1/24/2019 4:43:51 PM: Discovery Data obtained..
+1/24/2019 4:43:51 PM: Making Get JWKS Keys Call..
+1/24/2019 4:43:57 PM: JWKS Keys obtained..
+1/24/2019 4:43:57 PM: Intiating OAuth2 call to get code..
+1/24/2019 4:44:13 PM: Authorization code obtained..
+1/24/2019 4:44:13 PM: Exchanging code for tokens..
+1/24/2019 4:44:15 PM: Making IsIdToken Valid Call..
+1/24/2019 4:44:34 PM: Fetching Discovery Data..
+1/24/2019 4:44:34 PM: Discovery Data obtained..
+1/24/2019 4:44:34 PM: Making Get JWKS Keys Call..
+1/24/2019 4:44:35 PM: JWKS Keys obtained..
+1/24/2019 4:44:35 PM: Intiating OAuth2 call to get code..
+1/24/2019 4:44:38 PM: Invalid State.
+1/24/2019 4:44:45 PM: Fetching Discovery Data..
+1/24/2019 4:44:45 PM: Discovery Data obtained..
+1/24/2019 4:44:45 PM: Making Get JWKS Keys Call..
+1/24/2019 4:44:48 PM: JWKS Keys obtained..
+1/24/2019 4:44:48 PM: Intiating OAuth2 call to get code..
+1/24/2019 4:44:53 PM: Authorization code obtained..
+1/24/2019 4:44:53 PM: Exchanging code for tokens..
+1/24/2019 4:44:56 PM: Making IsIdToken Valid Call..
+1/24/2019 4:46:50 PM: IdToken Signature is verified..
+1/24/2019 4:46:51 PM: IsIdToken Valid Call completed..
+1/24/2019 4:47:25 PM: Making Get User Profile Call..
+1/24/2019 4:48:12 PM: Making Get User Profile Call..
+1/24/2019 4:48:41 PM: Get User Profile Call completed..
+1/24/2019 4:51:31 PM: Fetching Discovery Data..
+1/24/2019 4:51:33 PM: Discovery Data obtained..
+1/24/2019 4:51:33 PM: Making Get JWKS Keys Call..
+1/24/2019 4:51:55 PM: JWKS Keys obtained..
+1/24/2019 4:51:55 PM: Intiating OAuth2 call to get code..
+1/24/2019 4:52:15 PM: Authorization code obtained..
+1/24/2019 4:52:15 PM: Exchanging code for tokens..
+1/24/2019 4:52:58 PM: Making IsIdToken Valid Call..
+1/24/2019 4:53:25 PM: IdToken Signature is verified..
+1/24/2019 4:53:25 PM: IsIdToken Valid Call completed..
+1/24/2019 4:54:26 PM: Fetching Discovery Data..
+1/24/2019 4:54:27 PM: Discovery Data obtained..
+1/24/2019 4:54:27 PM: Making Get JWKS Keys Call..
+1/24/2019 4:54:30 PM: JWKS Keys obtained..
+1/24/2019 4:54:47 PM: Intiating OAuth2 call to get code..
+1/24/2019 4:57:47 PM: Fetching Discovery Data..
+1/24/2019 4:57:48 PM: Discovery Data obtained..
+1/24/2019 4:57:48 PM: Making Get JWKS Keys Call..
+1/24/2019 4:58:09 PM: JWKS Keys obtained..
+1/24/2019 4:58:13 PM: Intiating OAuth2 call to get code..
+1/24/2019 4:58:40 PM: Authorization code obtained..
+1/24/2019 4:58:44 PM: Exchanging code for tokens..
+1/24/2019 4:58:52 PM: Making IsIdToken Valid Call..
+1/24/2019 4:59:28 PM: IdToken Signature is verified..
+1/24/2019 4:59:28 PM: IsIdToken Valid Call completed..
+1/24/2019 4:59:52 PM: Fetching Discovery Data..
+1/24/2019 4:59:52 PM: Discovery Data obtained..
+1/24/2019 4:59:52 PM: Making Get JWKS Keys Call..
+1/24/2019 4:59:53 PM: JWKS Keys obtained..
+1/24/2019 4:59:53 PM: Intiating OAuth2 call to get code..
+1/24/2019 4:59:55 PM: Invalid State.
+1/24/2019 4:59:58 PM: Fetching Discovery Data..
+1/24/2019 4:59:58 PM: Discovery Data obtained..
+1/24/2019 4:59:58 PM: Making Get JWKS Keys Call..
+1/24/2019 4:59:59 PM: JWKS Keys obtained..
+1/24/2019 4:59:59 PM: Intiating OAuth2 call to get code..
+1/24/2019 5:00:03 PM: Authorization code obtained..
+1/24/2019 5:00:03 PM: Exchanging code for tokens..
+1/24/2019 5:00:04 PM: Making IsIdToken Valid Call..
+1/24/2019 5:00:05 PM: IdToken Signature is verified..
+1/24/2019 5:00:05 PM: IsIdToken Valid Call completed..
+1/24/2019 5:00:10 PM: Fetching Discovery Data..
+1/24/2019 5:00:10 PM: Discovery Data obtained..
+1/24/2019 5:00:10 PM: Making Get JWKS Keys Call..
+1/24/2019 5:00:12 PM: JWKS Keys obtained..
+1/24/2019 5:00:12 PM: Intiating OAuth2 call to get code..
+1/24/2019 5:00:56 PM: Invalid State.
+1/24/2019 5:01:00 PM: Fetching Discovery Data..
+1/24/2019 5:01:00 PM: Discovery Data obtained..
+1/24/2019 5:01:00 PM: Making Get JWKS Keys Call..
+1/24/2019 5:01:03 PM: JWKS Keys obtained..
+1/24/2019 5:01:03 PM: Intiating OAuth2 call to get code..
+1/24/2019 5:01:08 PM: Authorization code obtained..
+1/24/2019 5:01:08 PM: Exchanging code for tokens..
+1/24/2019 5:01:10 PM: Making IsIdToken Valid Call..
+1/24/2019 5:01:16 PM: IdToken Signature is verified..
+1/24/2019 5:01:16 PM: IsIdToken Valid Call completed..
+1/28/2019 5:03:42 PM: Fetching Discovery Data..
+1/28/2019 5:03:49 PM: Discovery Data obtained..
+1/28/2019 5:03:49 PM: Making Get JWKS Keys Call..
+1/28/2019 5:03:49 PM: JWKS Keys obtained..
+1/28/2019 5:03:49 PM: Intiating OAuth2 call to get code..
+1/28/2019 5:05:17 PM: Fetching Discovery Data..
+1/28/2019 5:05:18 PM: Discovery Data obtained..
+1/28/2019 5:05:18 PM: Making Get JWKS Keys Call..
+1/28/2019 5:05:18 PM: JWKS Keys obtained..
+1/28/2019 5:05:18 PM: Intiating OAuth2 call to get code..
+1/28/2019 5:05:24 PM: Invalid State.
+1/28/2019 5:05:31 PM: Fetching Discovery Data..
+1/28/2019 5:05:31 PM: Discovery Data obtained..
+1/28/2019 5:05:31 PM: Making Get JWKS Keys Call..
+1/28/2019 5:05:31 PM: JWKS Keys obtained..
+1/28/2019 5:05:31 PM: Intiating OAuth2 call to get code..
+1/28/2019 5:07:56 PM: Fetching Discovery Data..
+1/28/2019 5:07:58 PM: Discovery Data obtained..
+1/28/2019 5:07:58 PM: Making Get JWKS Keys Call..
+1/28/2019 5:07:58 PM: JWKS Keys obtained..
+1/28/2019 5:07:58 PM: Intiating OAuth2 call to get code..
+1/28/2019 5:08:20 PM: Fetching Discovery Data..
+1/28/2019 5:08:21 PM: Discovery Data obtained..
+1/28/2019 5:08:21 PM: Making Get JWKS Keys Call..
+1/28/2019 5:08:21 PM: JWKS Keys obtained..
+1/28/2019 5:08:21 PM: Intiating OAuth2 call to get code..
+1/28/2019 5:08:42 PM: Invalid State.
+1/28/2019 5:09:05 PM: Fetching Discovery Data..
+1/28/2019 5:09:06 PM: Discovery Data obtained..
+1/28/2019 5:09:06 PM: Making Get JWKS Keys Call..
+1/28/2019 5:09:09 PM: JWKS Keys obtained..
+1/28/2019 5:09:10 PM: Intiating OAuth2 call to get code..
+1/28/2019 5:09:21 PM: Authorization code obtained..
+1/28/2019 5:09:23 PM: Exchanging code for tokens..
+1/28/2019 5:09:33 PM: Access token obtained..
+1/28/2019 5:09:34 PM: Making Get User Profile Call..
+1/28/2019 5:09:38 PM: HTTP Status: Forbidden.
+1/28/2019 5:09:38 PM: Bearer,error="insufficient_scope".
+1/28/2019 5:11:37 PM: Fetching Discovery Data..
+1/28/2019 5:11:38 PM: Discovery Data obtained..
+1/28/2019 5:11:38 PM: Making Get JWKS Keys Call..
+1/28/2019 5:11:39 PM: JWKS Keys obtained..
+1/28/2019 5:11:39 PM: Intiating OAuth2 call to get code..
+1/28/2019 5:12:00 PM: Fetching Discovery Data..
+1/28/2019 5:12:00 PM: Discovery Data obtained..
+1/28/2019 5:12:00 PM: Making Get JWKS Keys Call..
+1/28/2019 5:12:00 PM: JWKS Keys obtained..
+1/28/2019 5:12:00 PM: Intiating OAuth2 call to get code..
+1/28/2019 5:12:38 PM: Invalid State.
+1/28/2019 5:12:43 PM: Fetching Discovery Data..
+1/28/2019 5:12:44 PM: Discovery Data obtained..
+1/28/2019 5:12:44 PM: Making Get JWKS Keys Call..
+1/28/2019 5:12:44 PM: JWKS Keys obtained..
+1/28/2019 5:12:44 PM: Intiating OAuth2 call to get code..
+1/28/2019 5:12:48 PM: Authorization code obtained..
+1/28/2019 5:12:48 PM: Exchanging code for tokens..
+1/28/2019 5:12:48 PM: Access token obtained..
+1/28/2019 5:12:48 PM: Making Get User Profile Call..
+1/28/2019 5:12:49 PM: HTTP Status: Forbidden.
+1/28/2019 5:12:49 PM: Bearer,error="insufficient_scope".
+1/28/2019 5:13:08 PM: Making Core API Call..
+1/28/2019 5:13:17 PM: Communication with Core OK..
+1/28/2019 5:16:57 PM: Fetching Discovery Data..
+1/28/2019 5:16:59 PM: Discovery Data obtained..
+1/28/2019 5:16:59 PM: Making Get JWKS Keys Call..
+1/28/2019 5:16:59 PM: JWKS Keys obtained..
+1/28/2019 5:16:59 PM: Intiating OAuth2 call to get code..
+1/28/2019 5:17:03 PM: Authorization code obtained..
+1/28/2019 5:17:03 PM: Exchanging code for tokens..
+1/28/2019 5:17:04 PM: Access token obtained..
+1/28/2019 5:17:04 PM: Making Get User Profile Call..
+1/28/2019 5:17:04 PM: HTTP Status: Forbidden.
+1/28/2019 5:17:04 PM: Bearer,error="insufficient_scope".
+1/28/2019 5:17:07 PM: Making Core API Call..
+1/28/2019 5:17:16 PM: Communication with Core OK..
+1/28/2019 5:39:41 PM: Fetching Discovery Data..
+1/28/2019 5:39:43 PM: Discovery Data obtained..
+1/28/2019 5:39:43 PM: Making Get JWKS Keys Call..
+1/28/2019 5:39:43 PM: JWKS Keys obtained..
+1/28/2019 5:39:43 PM: Intiating OAuth2 call to get code..
+1/28/2019 5:39:59 PM: Authorization code obtained..
+1/28/2019 5:39:59 PM: Exchanging code for tokens..
+1/28/2019 5:40:00 PM: Access token obtained..
+1/28/2019 5:40:00 PM: Making Get User Profile Call..
+1/28/2019 5:40:00 PM: HTTP Status: Forbidden.
+1/28/2019 5:40:00 PM: Bearer,error="insufficient_scope".
+1/28/2019 5:40:02 PM: Making Core API Call..
+1/28/2019 5:40:11 PM: Communication with Core OK..
+1/28/2019 5:48:41 PM: Making Core API Call..
+1/28/2019 5:48:49 PM: Communication with Core OK..
+1/28/2019 5:50:08 PM: Making Core API Call..
+1/28/2019 5:50:08 PM: Communication with Core OK..
+1/28/2019 5:52:03 PM: Making Core API Call..
+1/28/2019 5:52:04 PM: Communication with Core OK..
+1/28/2019 5:52:45 PM: Fetching Discovery Data..
+1/28/2019 5:52:47 PM: Discovery Data obtained..
+1/28/2019 5:52:47 PM: Making Get JWKS Keys Call..
+1/28/2019 5:52:47 PM: JWKS Keys obtained..
+1/28/2019 5:52:47 PM: Intiating OAuth2 call to get code..
+1/28/2019 5:53:41 PM: Fetching Discovery Data..
+1/28/2019 5:53:41 PM: Discovery Data obtained..
+1/28/2019 5:53:41 PM: Making Get JWKS Keys Call..
+1/28/2019 5:53:42 PM: JWKS Keys obtained..
+1/28/2019 5:53:42 PM: Intiating OAuth2 call to get code..
+1/28/2019 5:53:48 PM: Invalid State.
+1/28/2019 5:53:51 PM: Fetching Discovery Data..
+1/28/2019 5:53:51 PM: Discovery Data obtained..
+1/28/2019 5:53:51 PM: Making Get JWKS Keys Call..
+1/28/2019 5:53:52 PM: JWKS Keys obtained..
+1/28/2019 5:53:52 PM: Intiating OAuth2 call to get code..
+1/28/2019 5:53:57 PM: Authorization code obtained..
+1/28/2019 5:53:57 PM: Exchanging code for tokens..
+1/28/2019 5:53:57 PM: Access token obtained..
+1/28/2019 5:53:57 PM: Making Get User Profile Call..
+1/28/2019 5:53:58 PM: HTTP Status: Forbidden.
+1/28/2019 5:53:58 PM: Bearer,error="insufficient_scope".
+1/28/2019 5:58:30 PM: Fetching Discovery Data..
+1/28/2019 5:58:32 PM: Discovery Data obtained..
+1/28/2019 5:58:32 PM: Making Get JWKS Keys Call..
+1/28/2019 5:58:32 PM: JWKS Keys obtained..
+1/28/2019 5:58:32 PM: Intiating OAuth2 call to get code..
+1/28/2019 5:58:40 PM: Authorization code obtained..
+1/28/2019 5:58:40 PM: Exchanging code for tokens..
+1/28/2019 5:58:41 PM: Access token obtained..
+1/28/2019 5:58:41 PM: Making Get User Profile Call..
+1/28/2019 5:58:41 PM: HTTP Status: Forbidden.
+1/28/2019 5:58:42 PM: Bearer,error="insufficient_scope".
+1/28/2019 5:58:45 PM: Making Core API Call..
+1/28/2019 5:58:46 PM: Communication with Core OK..
+1/28/2019 5:59:04 PM: Performing Revoke tokens..
+1/28/2019 5:59:05 PM: HTTP Status: UnsupportedMediaType.
+1/28/2019 5:59:05 PM: Token revoked..
+1/28/2019 5:59:12 PM: Fetching Discovery Data..
+1/28/2019 5:59:13 PM: Discovery Data obtained..
+1/28/2019 5:59:13 PM: Making Get JWKS Keys Call..
+1/28/2019 5:59:13 PM: JWKS Keys obtained..
+1/28/2019 5:59:13 PM: Intiating OAuth2 call to get code..
+1/28/2019 5:59:18 PM: Authorization code obtained..
+1/28/2019 5:59:18 PM: Exchanging code for tokens..
+1/28/2019 5:59:19 PM: Access token obtained..
+1/28/2019 5:59:19 PM: Making Get User Profile Call..
+1/28/2019 5:59:19 PM: HTTP Status: Forbidden.
+1/28/2019 5:59:19 PM: Bearer,error="insufficient_scope".
+1/28/2019 5:59:21 PM: Making Core API Call..
+1/28/2019 5:59:22 PM: Communication with Core OK..
+1/28/2019 6:01:39 PM: Fetching Discovery Data..
+1/28/2019 6:01:41 PM: Discovery Data obtained..
+1/28/2019 6:01:41 PM: Making Get JWKS Keys Call..
+1/28/2019 6:01:41 PM: JWKS Keys obtained..
+1/28/2019 6:01:41 PM: Intiating OAuth2 call to get code..
+1/28/2019 6:01:48 PM: Fetching Discovery Data..
+1/28/2019 6:01:49 PM: Discovery Data obtained..
+1/28/2019 6:01:49 PM: Making Get JWKS Keys Call..
+1/28/2019 6:01:49 PM: JWKS Keys obtained..
+1/28/2019 6:01:49 PM: Intiating OAuth2 call to get code..
+1/28/2019 6:01:52 PM: Invalid State.
+1/28/2019 6:01:56 PM: Fetching Discovery Data..
+1/28/2019 6:01:57 PM: Discovery Data obtained..
+1/28/2019 6:01:57 PM: Making Get JWKS Keys Call..
+1/28/2019 6:01:57 PM: JWKS Keys obtained..
+1/28/2019 6:01:57 PM: Intiating OAuth2 call to get code..
+1/28/2019 6:02:00 PM: Authorization code obtained..
+1/28/2019 6:02:00 PM: Exchanging code for tokens..
+1/28/2019 6:02:01 PM: Access token obtained..
+1/28/2019 6:02:01 PM: Making Get User Profile Call..
+1/28/2019 6:02:01 PM: HTTP Status: Forbidden.
+1/28/2019 6:02:01 PM: Bearer,error="insufficient_scope".
+1/28/2019 6:02:03 PM: Making Core API Call..
+1/28/2019 6:02:05 PM: <b>Communication with Core OK.</b>.
+1/29/2019 11:03:13 AM: Fetching Discovery Data..
+1/29/2019 11:03:20 AM: Discovery Data obtained..
+1/29/2019 11:03:20 AM: Making Get JWKS Keys Call..
+1/29/2019 11:08:17 AM: JWKS Keys obtained..
+1/29/2019 11:08:28 AM: Intiating OAuth2 call to get code..
+1/29/2019 11:11:20 AM: Fetching Discovery Data..
+1/29/2019 11:11:21 AM: Discovery Data obtained..
+1/29/2019 11:11:21 AM: Making Get JWKS Keys Call..
+1/29/2019 11:11:23 AM: JWKS Keys obtained..
+1/29/2019 11:11:24 AM: Intiating OAuth2 call to get code..
+1/29/2019 11:11:54 AM: Invalid State.
+1/29/2019 11:12:28 AM: Fetching Discovery Data..
+1/29/2019 11:12:29 AM: Discovery Data obtained..
+1/29/2019 11:12:29 AM: Making Get JWKS Keys Call..
+1/29/2019 11:12:30 AM: JWKS Keys obtained..
+1/29/2019 11:12:31 AM: Intiating OAuth2 call to get code..
+1/29/2019 11:13:12 AM: Authorization code obtained..
+1/29/2019 11:13:17 AM: Exchanging code for tokens..
+1/29/2019 11:20:06 AM: Access token obtained..
+1/29/2019 11:20:09 AM: Making Get User Profile Call..
+1/29/2019 11:20:42 AM: HTTP Status: Forbidden.
+1/29/2019 11:20:43 AM: Bearer,error="insufficient_scope".
+1/29/2019 11:21:40 AM: Making Core API Call..
+1/29/2019 11:21:42 AM: Communication with Core OK..
+1/29/2019 12:30:08 PM: Fetching Discovery Data..
+1/29/2019 12:30:10 PM: Discovery Data obtained..
+1/29/2019 12:30:10 PM: Making Get JWKS Keys Call..
+1/29/2019 12:30:10 PM: JWKS Keys obtained..
+1/29/2019 12:30:10 PM: Intiating OAuth2 call to get code..
+1/29/2019 12:30:15 PM: Authorization code obtained..
+1/29/2019 12:30:15 PM: Exchanging code for tokens..
+1/29/2019 12:30:16 PM: Access token obtained..
+1/29/2019 12:30:16 PM: Making Get User Profile Call..
+1/29/2019 12:30:16 PM: HTTP Status: Forbidden.
+1/29/2019 12:30:16 PM: Bearer,error="insufficient_scope".
+1/29/2019 12:30:28 PM: Making Core API Call..
+1/29/2019 12:30:29 PM: Communication with Core OK..
+1/29/2019 12:36:49 PM: Fetching Discovery Data..
+1/29/2019 12:36:50 PM: Discovery Data obtained..
+1/29/2019 12:36:50 PM: Making Get JWKS Keys Call..
+1/29/2019 12:36:51 PM: JWKS Keys obtained..
+1/29/2019 12:36:51 PM: Intiating OAuth2 call to get code..
+1/29/2019 12:36:56 PM: Authorization code obtained..
+1/29/2019 12:36:56 PM: Exchanging code for tokens..
+1/29/2019 12:36:57 PM: Access token obtained..
+1/29/2019 12:36:57 PM: Making Get User Profile Call..
+1/29/2019 12:36:57 PM: HTTP Status: Forbidden.
+1/29/2019 12:36:57 PM: Bearer,error="insufficient_scope".
+1/29/2019 12:36:59 PM: Making Core API Call..
+1/29/2019 12:37:00 PM: Communication with Core OK..
+1/29/2019 12:37:10 PM: Performing Revoke tokens..
+1/29/2019 12:37:11 PM: HTTP Status: UnsupportedMediaType.
+1/29/2019 12:37:11 PM: Token revoked..
+1/29/2019 12:37:55 PM: Fetching Discovery Data..
+1/29/2019 12:37:56 PM: Discovery Data obtained..
+1/29/2019 12:37:56 PM: Making Get JWKS Keys Call..
+1/29/2019 12:37:56 PM: JWKS Keys obtained..
+1/29/2019 12:37:56 PM: Intiating OAuth2 call to get code..
+1/29/2019 12:38:00 PM: Authorization code obtained..
+1/29/2019 12:38:00 PM: Exchanging code for tokens..
+1/29/2019 12:38:01 PM: Access token obtained..
+1/29/2019 12:38:01 PM: Making Get User Profile Call..
+1/29/2019 12:38:01 PM: HTTP Status: Forbidden.
+1/29/2019 12:38:01 PM: Bearer,error="insufficient_scope".
+1/29/2019 12:38:04 PM: Making Core API Call..
+1/29/2019 12:38:04 PM: Communication with Core OK..
+1/29/2019 12:44:51 PM: Fetching Discovery Data..
+1/29/2019 12:44:58 PM: Discovery Data obtained..
+1/29/2019 12:44:58 PM: Making Get JWKS Keys Call..
+1/29/2019 12:44:58 PM: JWKS Keys obtained..
+1/29/2019 12:44:58 PM: Intiating OAuth2 call to get code..
+1/29/2019 12:45:02 PM: Authorization code obtained..
+1/29/2019 12:45:02 PM: Exchanging code for tokens..
+1/29/2019 12:45:04 PM: Access token obtained..
+1/29/2019 12:45:04 PM: Making Get User Profile Call..
+1/29/2019 12:45:04 PM: HTTP Status: Forbidden.
+1/29/2019 12:45:04 PM: Bearer,error="insufficient_scope".
+1/29/2019 12:45:07 PM: Making Core API Call..
+1/29/2019 12:45:08 PM: Communication with Core OK..
+1/29/2019 12:45:14 PM: Making Core API Call..
+1/29/2019 12:45:14 PM: Communication with Core OK..
+1/29/2019 12:46:46 PM: Making Core API Call..
+1/29/2019 12:46:47 PM: Communication with Core OK..
+1/29/2019 12:47:56 PM: Fetching Discovery Data..
+1/29/2019 12:47:57 PM: Discovery Data obtained..
+1/29/2019 12:47:57 PM: Making Get JWKS Keys Call..
+1/29/2019 12:47:57 PM: JWKS Keys obtained..
+1/29/2019 12:47:57 PM: Intiating OAuth2 call to get code..
+1/29/2019 12:48:06 PM: Authorization code obtained..
+1/29/2019 12:48:06 PM: Exchanging code for tokens..
+1/29/2019 12:48:06 PM: Access token obtained..
+1/29/2019 12:48:06 PM: Making Get User Profile Call..
+1/29/2019 12:48:07 PM: HTTP Status: Forbidden.
+1/29/2019 12:48:07 PM: Bearer,error="insufficient_scope".
+1/29/2019 12:50:19 PM: Fetching Discovery Data..
+1/29/2019 12:50:21 PM: Discovery Data obtained..
+1/29/2019 12:50:21 PM: Making Get JWKS Keys Call..
+1/29/2019 12:50:22 PM: JWKS Keys obtained..
+1/29/2019 12:50:22 PM: Intiating OAuth2 call to get code..
+1/29/2019 12:50:26 PM: Authorization code obtained..
+1/29/2019 12:50:26 PM: Exchanging code for tokens..
+1/29/2019 12:50:27 PM: Access token obtained..
+1/29/2019 12:50:27 PM: Making Get User Profile Call..
+1/29/2019 12:50:27 PM: HTTP Status: Forbidden.
+1/29/2019 12:50:27 PM: Bearer,error="insufficient_scope".
+1/29/2019 12:50:30 PM: Making Core API Call..
+1/29/2019 12:50:32 PM: Communication with Core OK..
+1/29/2019 12:52:59 PM: Fetching Discovery Data..
+1/29/2019 12:53:00 PM: Discovery Data obtained..
+1/29/2019 12:53:00 PM: Making Get JWKS Keys Call..
+1/29/2019 12:53:00 PM: JWKS Keys obtained..
+1/29/2019 12:53:00 PM: Intiating OAuth2 call to get code..
+1/29/2019 12:53:14 PM: Authorization code obtained..
+1/29/2019 12:53:14 PM: Exchanging code for tokens..
+1/29/2019 12:53:15 PM: Access token obtained..
+1/29/2019 12:53:15 PM: Making Get User Profile Call..
+1/29/2019 12:53:15 PM: HTTP Status: Forbidden.
+1/29/2019 12:53:15 PM: Bearer,error="insufficient_scope".
+1/29/2019 12:53:16 PM: Making Core API Call..
+1/29/2019 12:54:20 PM: Making Core API Call..
+1/29/2019 12:54:28 PM: HTTP Status: Conflict.
+1/29/2019 12:54:28 PM: {"Type":"Exception","HelpLink":null,"Message":"An error occurred while sending the request."}.
+1/29/2019 12:54:33 PM: Making Core API Call..
+1/29/2019 12:55:51 PM: Making Core API Call..
+1/29/2019 12:57:13 PM: Making Core API Call..
+1/29/2019 12:57:14 PM: Making Core API Call..
+1/29/2019 12:57:14 PM: Making Core API Call..
+1/29/2019 12:57:15 PM: Making Core API Call..
+1/29/2019 12:57:15 PM: Making Core API Call..
+1/29/2019 12:57:16 PM: Making Core API Call..
+1/29/2019 12:57:16 PM: Making Core API Call..
+1/29/2019 12:57:17 PM: Making Core API Call..
+1/29/2019 12:57:17 PM: Making Core API Call..
+1/29/2019 12:58:22 PM: Fetching Discovery Data..
+1/29/2019 12:58:23 PM: Discovery Data obtained..
+1/29/2019 12:58:23 PM: Making Get JWKS Keys Call..
+1/29/2019 12:58:24 PM: JWKS Keys obtained..
+1/29/2019 12:58:25 PM: Intiating OAuth2 call to get code..
+1/29/2019 12:58:31 PM: Authorization code obtained..
+1/29/2019 12:58:31 PM: Exchanging code for tokens..
+1/29/2019 12:58:35 PM: Access token obtained..
+1/29/2019 12:58:36 PM: Making Get User Profile Call..
+1/29/2019 12:58:39 PM: HTTP Status: Forbidden.
+1/29/2019 12:58:39 PM: Bearer,error="insufficient_scope".
+1/29/2019 12:58:45 PM: Making Core API Call..
+1/29/2019 12:59:00 PM: Communication with Core OK..
+1/29/2019 12:59:59 PM: Fetching Discovery Data..
+1/29/2019 1:00:01 PM: Discovery Data obtained..
+1/29/2019 1:00:01 PM: Making Get JWKS Keys Call..
+1/29/2019 1:00:01 PM: JWKS Keys obtained..
+1/29/2019 1:00:01 PM: Intiating OAuth2 call to get code..
+1/29/2019 1:00:05 PM: Authorization code obtained..
+1/29/2019 1:00:05 PM: Exchanging code for tokens..
+1/29/2019 1:00:06 PM: Access token obtained..
+1/29/2019 1:00:06 PM: Making Get User Profile Call..
+1/29/2019 1:00:06 PM: HTTP Status: Forbidden.
+1/29/2019 1:00:06 PM: Bearer,error="insufficient_scope".
+1/29/2019 1:00:08 PM: Making Core API Call..
+1/29/2019 1:00:09 PM: Communication with Core OK..
+1/29/2019 1:00:47 PM: Fetching Discovery Data..
+1/29/2019 1:00:48 PM: Discovery Data obtained..
+1/29/2019 1:00:48 PM: Making Get JWKS Keys Call..
+1/29/2019 1:00:49 PM: JWKS Keys obtained..
+1/29/2019 1:00:49 PM: Intiating OAuth2 call to get code..
+1/29/2019 1:00:52 PM: Authorization code obtained..
+1/29/2019 1:00:52 PM: Exchanging code for tokens..
+1/29/2019 1:00:53 PM: Access token obtained..
+1/29/2019 1:00:53 PM: Making Get User Profile Call..
+1/29/2019 1:00:53 PM: HTTP Status: Forbidden.
+1/29/2019 1:00:53 PM: Bearer,error="insufficient_scope".
+1/29/2019 1:00:56 PM: Making Core API Call..
+1/29/2019 1:00:58 PM: Communication with Core OK..
+1/29/2019 1:01:42 PM: Fetching Discovery Data..
+1/29/2019 1:01:43 PM: Discovery Data obtained..
+1/29/2019 1:01:43 PM: Making Get JWKS Keys Call..
+1/29/2019 1:01:47 PM: JWKS Keys obtained..
+1/29/2019 1:01:48 PM: Intiating OAuth2 call to get code..
+1/29/2019 1:01:57 PM: Authorization code obtained..
+1/29/2019 1:01:57 PM: Exchanging code for tokens..
+1/29/2019 1:02:14 PM: Access token obtained..
+1/29/2019 1:02:16 PM: Making Get User Profile Call..
+1/29/2019 1:02:18 PM: HTTP Status: Forbidden.
+1/29/2019 1:02:18 PM: Bearer,error="insufficient_scope".
+1/29/2019 1:02:45 PM: Making Core API Call..
+1/29/2019 1:02:59 PM: Communication with Core OK..
+1/29/2019 1:06:53 PM: Performing Revoke tokens..
+1/29/2019 1:07:12 PM: HTTP Status: UnsupportedMediaType.
+1/29/2019 1:07:40 PM: Token revoked..
+1/29/2019 3:27:21 PM: Fetching Discovery Data..
+1/29/2019 3:27:22 PM: Discovery Data obtained..
+1/29/2019 3:27:22 PM: Making Get JWKS Keys Call..
+1/29/2019 3:27:23 PM: JWKS Keys obtained..
+1/29/2019 3:27:23 PM: Intiating OAuth2 call to get code..
+1/29/2019 3:27:32 PM: Authorization code obtained..
+1/29/2019 3:27:32 PM: Exchanging code for tokens..
+1/29/2019 3:27:32 PM: Access token obtained..
+1/29/2019 3:27:32 PM: Making Get User Profile Call..
+1/29/2019 3:27:33 PM: HTTP Status: Forbidden.
+1/29/2019 3:27:33 PM: Bearer,error="insufficient_scope".
+1/29/2019 3:39:37 PM: Making Core API Call..
+1/29/2019 3:39:39 PM: Communication with Core OK..
+1/29/2019 3:40:22 PM: Fetching Discovery Data..
+1/29/2019 3:40:24 PM: Discovery Data obtained..
+1/29/2019 3:40:24 PM: Making Get JWKS Keys Call..
+1/29/2019 3:40:24 PM: JWKS Keys obtained..
+1/29/2019 3:40:24 PM: Intiating OAuth2 call to get code..
+1/29/2019 3:40:34 PM: Authorization code obtained..
+1/29/2019 3:40:34 PM: Exchanging code for tokens..
+1/29/2019 3:40:35 PM: Access token obtained..
+1/29/2019 3:40:35 PM: Making Get User Profile Call..
+1/29/2019 3:40:35 PM: HTTP Status: Forbidden.
+1/29/2019 3:40:35 PM: Bearer,error="insufficient_scope".
+1/29/2019 3:41:04 PM: Making Core API Call..
+1/29/2019 3:41:06 PM: Communication with Core OK..
+1/29/2019 3:41:56 PM: Making Core API Call..
+1/29/2019 3:41:57 PM: Communication with Core OK..
+1/29/2019 3:42:00 PM: Performing Revoke tokens..
+1/29/2019 3:42:02 PM: HTTP Status: UnsupportedMediaType.
+1/29/2019 3:42:02 PM: Token revoked..
+1/29/2019 3:42:15 PM: Fetching Discovery Data..
+1/29/2019 3:42:15 PM: Discovery Data obtained..
+1/29/2019 3:42:15 PM: Making Get JWKS Keys Call..
+1/29/2019 3:42:40 PM: JWKS Keys obtained..
+1/29/2019 3:42:53 PM: Intiating OAuth2 call to get code..
+1/29/2019 3:43:25 PM: Authorization code obtained..
+1/29/2019 3:43:27 PM: Exchanging code for tokens..
+1/29/2019 3:45:15 PM: Access token obtained..
+1/29/2019 3:45:37 PM: Making Get User Profile Call..
+1/29/2019 3:45:41 PM: HTTP Status: Forbidden.
+1/29/2019 3:45:42 PM: Bearer,error="insufficient_scope".
+1/29/2019 3:46:03 PM: Making Core API Call..
+1/29/2019 3:46:33 PM: Communication with Core OK..
+1/29/2019 3:46:49 PM: Performing Revoke tokens..
+1/29/2019 3:48:21 PM: HTTP Status: UnsupportedMediaType.
+1/29/2019 3:48:21 PM: Token revoked..
+1/29/2019 4:15:57 PM: Fetching Discovery Data..
+1/29/2019 4:16:04 PM: Discovery Data obtained..
+1/29/2019 4:16:04 PM: Making Get JWKS Keys Call..
+1/29/2019 4:16:04 PM: JWKS Keys obtained..
+1/29/2019 4:16:04 PM: Intiating OAuth2 call to get code..
+1/29/2019 4:16:19 PM: Authorization code obtained..
+1/29/2019 4:16:19 PM: Exchanging code for tokens..
+1/29/2019 4:16:20 PM: Access token obtained..
+1/29/2019 4:16:20 PM: Making Get User Profile Call..
+1/29/2019 4:16:20 PM: HTTP Status: Forbidden.
+1/29/2019 4:16:20 PM: Bearer,error="insufficient_scope".
+1/29/2019 4:16:23 PM: Making Core API Call..
+1/29/2019 4:16:24 PM: Communication with Core OK..
+1/29/2019 4:18:05 PM: Fetching Discovery Data..
+1/29/2019 4:18:06 PM: Discovery Data obtained..
+1/29/2019 4:18:06 PM: Making Get JWKS Keys Call..
+1/29/2019 4:18:06 PM: JWKS Keys obtained..
+1/29/2019 4:18:06 PM: Intiating OAuth2 call to get code..
+1/29/2019 4:18:11 PM: Authorization code obtained..
+1/29/2019 4:18:11 PM: Exchanging code for tokens..
+1/29/2019 4:18:12 PM: Access token obtained..
+1/29/2019 4:18:12 PM: Making Get User Profile Call..
+1/29/2019 4:18:12 PM: HTTP Status: Forbidden.
+1/29/2019 4:18:12 PM: Bearer,error="insufficient_scope".
+1/29/2019 4:18:15 PM: Making Core API Call..
+1/29/2019 4:18:17 PM: Communication with Core OK..
+1/29/2019 4:20:49 PM: Fetching Discovery Data..
+1/29/2019 4:20:50 PM: Discovery Data obtained..
+1/29/2019 4:20:50 PM: Making Get JWKS Keys Call..
+1/29/2019 4:20:50 PM: JWKS Keys obtained..
+1/29/2019 4:20:50 PM: Intiating OAuth2 call to get code..
+1/29/2019 4:21:01 PM: Authorization code obtained..
+1/29/2019 4:21:01 PM: Exchanging code for tokens..
+1/29/2019 4:21:02 PM: Access token obtained..
+1/29/2019 4:21:02 PM: Making Get User Profile Call..
+1/29/2019 4:21:02 PM: HTTP Status: Forbidden.
+1/29/2019 4:21:02 PM: Bearer,error="insufficient_scope".
+1/29/2019 4:21:14 PM: Making Core API Call..
+1/29/2019 4:21:19 PM: Communication with Core OK..
+1/29/2019 4:22:54 PM: Performing Revoke tokens..
+1/29/2019 4:22:55 PM: HTTP Status: UnsupportedMediaType.
+1/29/2019 4:22:55 PM: Token revoked..
+1/29/2019 4:26:17 PM: Fetching Discovery Data..
+1/29/2019 4:26:18 PM: Discovery Data obtained..
+1/29/2019 4:26:18 PM: Making Get JWKS Keys Call..
+1/29/2019 4:26:21 PM: JWKS Keys obtained..
+1/29/2019 4:26:22 PM: Intiating OAuth2 call to get code..
+1/29/2019 4:26:34 PM: Authorization code obtained..
+1/29/2019 4:26:34 PM: Exchanging code for tokens..
+1/29/2019 4:26:36 PM: Access token obtained..
+1/29/2019 4:26:36 PM: Making Get User Profile Call..
+1/29/2019 4:26:38 PM: HTTP Status: Forbidden.
+1/29/2019 4:26:38 PM: Bearer,error="insufficient_scope".
+1/29/2019 4:26:45 PM: Making Core API Call..
+1/29/2019 4:26:47 PM: Communication with Core OK..
+1/29/2019 4:30:13 PM: Making Core API Call..
+1/29/2019 4:30:14 PM: Communication with Core OK..
+1/29/2019 4:30:19 PM: Making Core API Call..
+1/29/2019 4:30:20 PM: Communication with Core OK..
+1/29/2019 4:30:25 PM: Making Core API Call..
+1/29/2019 4:30:25 PM: Communication with Core OK..
+1/29/2019 4:30:35 PM: Performing Revoke tokens..
+1/29/2019 4:30:37 PM: HTTP Status: UnsupportedMediaType.
+1/29/2019 4:30:37 PM: Token revoked..
+1/29/2019 4:31:58 PM: Fetching Discovery Data..
+1/29/2019 4:31:59 PM: Discovery Data obtained..
+1/29/2019 4:31:59 PM: Making Get JWKS Keys Call..
+1/29/2019 4:31:59 PM: JWKS Keys obtained..
+1/29/2019 4:31:59 PM: Intiating OAuth2 call to get code..
+1/29/2019 4:32:10 PM: Authorization code obtained..
+1/29/2019 4:32:10 PM: Exchanging code for tokens..
+1/29/2019 4:32:10 PM: Access token obtained..
+1/29/2019 4:32:10 PM: Making Get User Profile Call..
+1/29/2019 4:32:11 PM: HTTP Status: Forbidden.
+1/29/2019 4:32:11 PM: Bearer,error="insufficient_scope".
+1/29/2019 4:32:15 PM: Making Core API Call..
+1/29/2019 4:32:17 PM: Communication with Core OK..
+1/30/2019 9:36:40 AM: Fetching Discovery Data..
+1/30/2019 9:36:46 AM: Discovery Data obtained..
+1/30/2019 9:36:46 AM: Making Get JWKS Keys Call..
+1/30/2019 9:36:46 AM: JWKS Keys obtained..
+1/30/2019 9:36:46 AM: Intiating OAuth2 call to get code..
+1/30/2019 9:37:05 AM: Authorization code obtained..
+1/30/2019 9:37:05 AM: Exchanging code for tokens..
+1/30/2019 9:37:06 AM: Access token obtained..
+1/30/2019 9:37:06 AM: Making Get User Profile Call..
+1/30/2019 9:37:06 AM: HTTP Status: Forbidden.
+1/30/2019 9:37:06 AM: Bearer,error="insufficient_scope".
+1/30/2019 9:37:11 AM: Making Core API Call..
+1/30/2019 9:37:19 AM: Communication with Core OK..
+1/30/2019 9:38:07 AM: Performing Revoke tokens..
+1/30/2019 9:38:08 AM: HTTP Status: UnsupportedMediaType.
+1/30/2019 9:38:08 AM: Token revoked..
+1/30/2019 9:38:43 AM: Fetching Discovery Data..
+1/30/2019 9:38:43 AM: Discovery Data obtained..
+1/30/2019 9:38:43 AM: Making Get JWKS Keys Call..
+1/30/2019 9:38:43 AM: JWKS Keys obtained..
+1/30/2019 9:38:43 AM: Intiating OAuth2 call to get code..
+1/30/2019 9:38:52 AM: Authorization code obtained..
+1/30/2019 9:38:52 AM: Exchanging code for tokens..
+1/30/2019 9:38:52 AM: Making IsIdTokenValid Call..
+1/30/2019 9:38:52 AM: IdToken Signature is verified..
+1/30/2019 9:38:52 AM: IsIdToken Valid Call completed..
+1/30/2019 9:40:48 AM: Fetching Discovery Data..
+1/30/2019 9:40:50 AM: Discovery Data obtained..
+1/30/2019 9:40:50 AM: Making Get JWKS Keys Call..
+1/30/2019 9:41:16 AM: JWKS Keys obtained..
+1/30/2019 9:41:55 AM: Intiating OAuth2 call to get code..
+1/30/2019 9:43:02 AM: Authorization code obtained..
+1/30/2019 9:43:02 AM: Exchanging code for tokens..
+1/30/2019 9:43:33 AM: Making IsIdTokenValid Call..
+1/30/2019 9:45:44 AM: IdToken Signature is verified..
+1/30/2019 9:45:44 AM: IsIdToken Valid Call completed..
+1/30/2019 9:49:48 AM: Fetching Discovery Data..
+1/30/2019 9:49:49 AM: Discovery Data obtained..
+1/30/2019 9:49:49 AM: Making Get JWKS Keys Call..
+1/30/2019 9:49:53 AM: JWKS Keys obtained..
+1/30/2019 9:50:00 AM: Intiating OAuth2 call to get code..
+1/30/2019 9:50:27 AM: Fetching Discovery Data..
+1/30/2019 9:50:27 AM: Discovery Data obtained..
+1/30/2019 9:50:27 AM: Making Get JWKS Keys Call..
+1/30/2019 9:50:28 AM: JWKS Keys obtained..
+1/30/2019 9:50:28 AM: Intiating OAuth2 call to get code..
+1/30/2019 9:50:53 AM: Fetching Discovery Data..
+1/30/2019 9:50:53 AM: Discovery Data obtained..
+1/30/2019 9:50:53 AM: Making Get JWKS Keys Call..
+1/30/2019 9:50:55 AM: JWKS Keys obtained..
+1/30/2019 9:50:55 AM: Intiating OAuth2 call to get code..
+1/30/2019 9:51:47 AM: Invalid State.
+1/30/2019 9:52:05 AM: Fetching Discovery Data..
+1/30/2019 9:52:06 AM: Discovery Data obtained..
+1/30/2019 9:52:06 AM: Making Get JWKS Keys Call..
+1/30/2019 9:52:07 AM: JWKS Keys obtained..
+1/30/2019 9:52:07 AM: Intiating OAuth2 call to get code..
+1/30/2019 9:52:16 AM: Authorization code obtained..
+1/30/2019 9:52:16 AM: Exchanging code for tokens..
+1/30/2019 9:52:25 AM: Making IsIdTokenValid Call..
+1/30/2019 9:53:55 AM: IdToken Signature is verified..
+1/30/2019 9:54:25 AM: IsIdToken Valid Call completed..
+1/30/2019 9:57:43 AM: Fetching Discovery Data..
+1/30/2019 9:57:45 AM: Discovery Data obtained..
+1/30/2019 9:57:45 AM: Making Get JWKS Keys Call..
+1/30/2019 9:57:51 AM: JWKS Keys obtained..
+1/30/2019 9:57:51 AM: Intiating OAuth2 call to get code..
+1/30/2019 9:58:12 AM: Authorization code obtained..
+1/30/2019 9:58:12 AM: Exchanging code for tokens..
+1/30/2019 9:58:15 AM: Making IsIdTokenValid Call..
+1/30/2019 9:58:38 AM: IdToken Signature is verified..
+1/30/2019 9:58:38 AM: IsIdToken Valid Call completed..
+1/30/2019 9:58:51 AM: Making Get User Profile Call..
+1/30/2019 9:58:56 AM: HTTP Status: Unauthorized.
+1/30/2019 9:58:56 AM: Bearer,error="invalid_token".
+1/30/2019 9:59:24 AM: Fetching Discovery Data..
+1/30/2019 10:00:03 AM: Discovery Data obtained..
+1/30/2019 10:00:03 AM: Making Get JWKS Keys Call..
+1/30/2019 10:00:03 AM: JWKS Keys obtained..
+1/30/2019 10:00:03 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:12:57 AM: Invalid State.
+1/30/2019 10:13:04 AM: Fetching Discovery Data..
+1/30/2019 10:13:05 AM: Discovery Data obtained..
+1/30/2019 10:13:08 AM: Making Get JWKS Keys Call..
+1/30/2019 10:13:08 AM: JWKS Keys obtained..
+1/30/2019 10:13:08 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:13:23 AM: Authorization code obtained..
+1/30/2019 10:13:23 AM: Exchanging code for tokens..
+1/30/2019 10:13:32 AM: Making IsIdTokenValid Call..
+1/30/2019 10:13:32 AM: IdToken Signature is verified..
+1/30/2019 10:13:32 AM: IsIdToken Valid Call completed..
+1/30/2019 10:13:37 AM: Making Get User Profile Call..
+1/30/2019 10:13:59 AM: HTTP Status: Unauthorized.
+1/30/2019 10:13:59 AM: Bearer,error="invalid_token".
+1/30/2019 10:14:03 AM: Fetching Discovery Data..
+1/30/2019 10:14:04 AM: Discovery Data obtained..
+1/30/2019 10:14:04 AM: Making Get JWKS Keys Call..
+1/30/2019 10:14:04 AM: JWKS Keys obtained..
+1/30/2019 10:14:04 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:14:07 AM: Invalid State.
+1/30/2019 10:14:12 AM: Fetching Discovery Data..
+1/30/2019 10:14:12 AM: Discovery Data obtained..
+1/30/2019 10:14:12 AM: Making Get JWKS Keys Call..
+1/30/2019 10:14:12 AM: JWKS Keys obtained..
+1/30/2019 10:14:12 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:14:15 AM: Authorization code obtained..
+1/30/2019 10:14:15 AM: Exchanging code for tokens..
+1/30/2019 10:14:20 AM: Making IsIdTokenValid Call..
+1/30/2019 10:14:20 AM: IdToken Signature is verified..
+1/30/2019 10:14:20 AM: IsIdToken Valid Call completed..
+1/30/2019 10:14:28 AM: Making Get User Profile Call..
+1/30/2019 10:16:19 AM: Fetching Discovery Data..
+1/30/2019 10:16:20 AM: Discovery Data obtained..
+1/30/2019 10:16:20 AM: Making Get JWKS Keys Call..
+1/30/2019 10:16:20 AM: JWKS Keys obtained..
+1/30/2019 10:16:20 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:16:26 AM: Authorization code obtained..
+1/30/2019 10:16:26 AM: Exchanging code for tokens..
+1/30/2019 10:16:31 AM: Making IsIdTokenValid Call..
+1/30/2019 10:16:31 AM: IdToken Signature is verified..
+1/30/2019 10:16:31 AM: IsIdToken Valid Call completed..
+1/30/2019 10:16:39 AM: Making Get User Profile Call..
+1/30/2019 10:16:59 AM: Communication with Core OK..
+1/30/2019 10:17:06 AM: Get User Profile Call completed..
+1/30/2019 10:22:03 AM: Fetching Discovery Data..
+1/30/2019 10:22:14 AM: The remote name could not be resolved: 'sandbox-api-identity.bqecore.com'.
+1/30/2019 10:22:14 AM: Making Get JWKS Keys Call..
+1/30/2019 10:22:20 AM: Fetching Discovery Data..
+1/30/2019 10:22:25 AM: Discovery Data obtained..
+1/30/2019 10:22:25 AM: Making Get JWKS Keys Call..
+1/30/2019 10:22:25 AM: JWKS Keys obtained..
+1/30/2019 10:22:25 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:23:05 AM: Authorization code obtained..
+1/30/2019 10:23:05 AM: Exchanging code for tokens..
+1/30/2019 10:23:14 AM: Making IsIdTokenValid Call..
+1/30/2019 10:23:14 AM: IdToken Signature is verified..
+1/30/2019 10:23:14 AM: IsIdToken Valid Call completed..
+1/30/2019 10:23:16 AM: Making Get User Profile Call..
+1/30/2019 10:23:20 AM: Communication with Core OK..
+1/30/2019 10:23:22 AM: Get User Profile Call completed..
+1/30/2019 10:33:37 AM: Fetching Discovery Data..
+1/30/2019 10:33:39 AM: Discovery Data obtained..
+1/30/2019 10:33:39 AM: Making Get JWKS Keys Call..
+1/30/2019 10:33:39 AM: JWKS Keys obtained..
+1/30/2019 10:33:39 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:33:52 AM: Authorization code obtained..
+1/30/2019 10:33:52 AM: Exchanging code for tokens..
+1/30/2019 10:33:55 AM: Making IsIdTokenValid Call..
+1/30/2019 10:33:55 AM: IdToken Signature is verified..
+1/30/2019 10:33:55 AM: IsIdToken Valid Call completed..
+1/30/2019 10:33:55 AM: Making Get User Profile Call..
+1/30/2019 10:34:02 AM: Communication with Core OK..
+1/30/2019 10:34:02 AM: Get User Profile Call completed..
+1/30/2019 10:35:11 AM: Fetching Discovery Data..
+1/30/2019 10:35:12 AM: Discovery Data obtained..
+1/30/2019 10:35:12 AM: Making Get JWKS Keys Call..
+1/30/2019 10:35:13 AM: JWKS Keys obtained..
+1/30/2019 10:35:13 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:35:13 AM: Authorization code obtained..
+1/30/2019 10:35:13 AM: Exchanging code for tokens..
+1/30/2019 10:35:14 AM: Making IsIdTokenValid Call..
+1/30/2019 10:35:14 AM: IdToken Signature is verified..
+1/30/2019 10:35:14 AM: IsIdToken Valid Call completed..
+1/30/2019 10:35:14 AM: Making Get User Profile Call..
+1/30/2019 10:35:14 AM: Communication with Core OK..
+1/30/2019 10:35:14 AM: Get User Profile Call completed..
+1/30/2019 10:38:09 AM: Fetching Discovery Data..
+1/30/2019 10:38:11 AM: Discovery Data obtained..
+1/30/2019 10:38:11 AM: Making Get JWKS Keys Call..
+1/30/2019 10:38:11 AM: JWKS Keys obtained..
+1/30/2019 10:38:11 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:38:27 AM: Authorization code obtained..
+1/30/2019 10:38:27 AM: Exchanging code for tokens..
+1/30/2019 10:38:29 AM: Making IsIdTokenValid Call..
+1/30/2019 10:38:29 AM: IdToken Signature is verified..
+1/30/2019 10:38:29 AM: IsIdToken Valid Call completed..
+1/30/2019 10:38:30 AM: Making Get User Profile Call..
+1/30/2019 10:38:38 AM: Communication with Core OK..
+1/30/2019 10:38:51 AM: Get User Profile Call completed..
+1/30/2019 10:41:37 AM: Fetching Discovery Data..
+1/30/2019 10:41:39 AM: Discovery Data obtained..
+1/30/2019 10:41:39 AM: Making Get JWKS Keys Call..
+1/30/2019 10:41:39 AM: JWKS Keys obtained..
+1/30/2019 10:41:39 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:41:44 AM: Authorization code obtained..
+1/30/2019 10:41:44 AM: Exchanging code for tokens..
+1/30/2019 10:41:45 AM: Access token obtained..
+1/30/2019 10:41:45 AM: Making Get User Profile Call..
+1/30/2019 10:41:45 AM: HTTP Status: Forbidden.
+1/30/2019 10:41:45 AM: Bearer,error="insufficient_scope".
+1/30/2019 10:41:49 AM: Making Core API Call..
+1/30/2019 10:41:57 AM: Communication with Core OK..
+1/30/2019 10:44:00 AM: Fetching Discovery Data..
+1/30/2019 10:44:01 AM: Discovery Data obtained..
+1/30/2019 10:44:01 AM: Making Get JWKS Keys Call..
+1/30/2019 10:44:02 AM: JWKS Keys obtained..
+1/30/2019 10:44:12 AM: Fetching Discovery Data..
+1/30/2019 10:44:12 AM: Discovery Data obtained..
+1/30/2019 10:44:12 AM: Making Get JWKS Keys Call..
+1/30/2019 10:44:12 AM: JWKS Keys obtained..
+1/30/2019 10:44:12 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:44:22 AM: Authorization code obtained..
+1/30/2019 10:44:22 AM: Exchanging code for tokens..
+1/30/2019 10:44:25 AM: Making IsIdTokenValid Call..
+1/30/2019 10:44:25 AM: IdToken Signature is verified..
+1/30/2019 10:44:25 AM: IsIdToken Valid Call completed..
+1/30/2019 10:44:27 AM: Making Get User Profile Call..
+1/30/2019 10:44:33 AM: Communication with Core OK..
+1/30/2019 10:44:51 AM: Get User Profile Call completed..
+1/30/2019 10:50:29 AM: Fetching Discovery Data..
+1/30/2019 10:50:30 AM: Discovery Data obtained..
+1/30/2019 10:50:30 AM: Making Get JWKS Keys Call..
+1/30/2019 10:50:30 AM: JWKS Keys obtained..
+1/30/2019 10:50:30 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:50:36 AM: Authorization code obtained..
+1/30/2019 10:50:36 AM: Exchanging code for tokens..
+1/30/2019 10:50:36 AM: Making IsIdTokenValid Call..
+1/30/2019 10:50:36 AM: IdToken Signature is verified..
+1/30/2019 10:50:36 AM: IsIdToken Valid Call completed..
+1/30/2019 10:50:39 AM: Making Get User Profile Call..
+1/30/2019 10:50:39 AM: Communication with Core OK..
+1/30/2019 10:50:39 AM: Get User Profile Call completed..
+1/30/2019 10:51:05 AM: Making Get User Profile Call..
+1/30/2019 10:51:06 AM: Communication with Core OK..
+1/30/2019 10:51:06 AM: Get User Profile Call completed..
+1/30/2019 10:52:23 AM: Fetching Discovery Data..
+1/30/2019 10:52:24 AM: Discovery Data obtained..
+1/30/2019 10:52:24 AM: Making Get JWKS Keys Call..
+1/30/2019 10:52:25 AM: JWKS Keys obtained..
+1/30/2019 10:52:25 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:52:25 AM: Authorization code obtained..
+1/30/2019 10:52:25 AM: Exchanging code for tokens..
+1/30/2019 10:52:26 AM: Making IsIdTokenValid Call..
+1/30/2019 10:52:26 AM: IdToken Signature is verified..
+1/30/2019 10:52:26 AM: IsIdToken Valid Call completed..
+1/30/2019 10:52:29 AM: Making Get User Profile Call..
+1/30/2019 10:52:30 AM: Communication with Core OK..
+1/30/2019 10:52:30 AM: Get User Profile Call completed..
+1/30/2019 10:52:31 AM: Performing Revoke tokens..
+1/30/2019 10:52:32 AM: HTTP Status: UnsupportedMediaType.
+1/30/2019 10:52:32 AM: Token revoked..
+1/30/2019 10:52:37 AM: Fetching Discovery Data..
+1/30/2019 10:52:38 AM: Discovery Data obtained..
+1/30/2019 10:52:38 AM: Making Get JWKS Keys Call..
+1/30/2019 10:52:38 AM: JWKS Keys obtained..
+1/30/2019 10:52:38 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:52:43 AM: Authorization code obtained..
+1/30/2019 10:52:43 AM: Exchanging code for tokens..
+1/30/2019 10:52:44 AM: Access token obtained..
+1/30/2019 10:52:44 AM: Making Get User Profile Call..
+1/30/2019 10:52:44 AM: HTTP Status: Forbidden.
+1/30/2019 10:52:44 AM: Bearer,error="insufficient_scope".
+1/30/2019 10:52:46 AM: Making Core API Call..
+1/30/2019 10:52:48 AM: Communication with Core OK..
+1/30/2019 10:52:52 AM: Performing Revoke tokens..
+1/30/2019 10:52:54 AM: HTTP Status: UnsupportedMediaType.
+1/30/2019 10:52:54 AM: Token revoked..
+1/30/2019 10:53:02 AM: Fetching Discovery Data..
+1/30/2019 10:53:02 AM: Discovery Data obtained..
+1/30/2019 10:53:02 AM: Making Get JWKS Keys Call..
+1/30/2019 10:53:03 AM: JWKS Keys obtained..
+1/30/2019 10:53:03 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:53:13 AM: Authorization code obtained..
+1/30/2019 10:53:13 AM: Exchanging code for tokens..
+1/30/2019 10:53:13 AM: Making IsIdTokenValid Call..
+1/30/2019 10:53:13 AM: IdToken Signature is verified..
+1/30/2019 10:53:13 AM: IsIdToken Valid Call completed..
+1/30/2019 10:53:19 AM: Making Get User Profile Call..
+1/30/2019 10:53:19 AM: Communication with Core OK..
+1/30/2019 10:53:19 AM: Get User Profile Call completed..
+1/30/2019 10:55:56 AM: Fetching Discovery Data..
+1/30/2019 10:55:57 AM: Discovery Data obtained..
+1/30/2019 10:55:57 AM: Making Get JWKS Keys Call..
+1/30/2019 10:55:57 AM: JWKS Keys obtained..
+1/30/2019 10:55:57 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:56:04 AM: Authorization code obtained..
+1/30/2019 10:56:04 AM: Exchanging code for tokens..
+1/30/2019 10:56:05 AM: Access token obtained..
+1/30/2019 10:56:05 AM: Making Get User Profile Call..
+1/30/2019 10:56:05 AM: HTTP Status: Forbidden.
+1/30/2019 10:56:05 AM: Bearer,error="insufficient_scope".
+1/30/2019 10:56:08 AM: Making Core API Call..
+1/30/2019 10:56:09 AM: Communication with Core OK..
+1/30/2019 10:56:14 AM: Performing Revoke tokens..
+1/30/2019 10:56:15 AM: HTTP Status: UnsupportedMediaType.
+1/30/2019 10:56:15 AM: Token revoked..
+1/30/2019 10:58:35 AM: Fetching Discovery Data..
+1/30/2019 10:58:36 AM: Discovery Data obtained..
+1/30/2019 10:58:36 AM: Making Get JWKS Keys Call..
+1/30/2019 10:58:36 AM: JWKS Keys obtained..
+1/30/2019 10:58:36 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:58:41 AM: Authorization code obtained..
+1/30/2019 10:58:41 AM: Exchanging code for tokens..
+1/30/2019 10:58:42 AM: Access token obtained..
+1/30/2019 10:58:42 AM: Making Get User Profile Call..
+1/30/2019 10:58:42 AM: HTTP Status: Forbidden.
+1/30/2019 10:58:42 AM: Bearer,error="insufficient_scope".
+1/30/2019 10:58:45 AM: Making Core API Call..
+1/30/2019 10:58:46 AM: Communication with Core OK..
+1/30/2019 10:58:49 AM: Performing Revoke tokens..
+1/30/2019 10:58:50 AM: HTTP Status: UnsupportedMediaType.
+1/30/2019 10:58:50 AM: Token revoked..
+1/30/2019 10:58:56 AM: Fetching Discovery Data..
+1/30/2019 10:58:56 AM: Discovery Data obtained..
+1/30/2019 10:58:56 AM: Making Get JWKS Keys Call..
+1/30/2019 10:58:56 AM: JWKS Keys obtained..
+1/30/2019 10:58:56 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:59:00 AM: Authorization code obtained..
+1/30/2019 10:59:00 AM: Exchanging code for tokens..
+1/30/2019 10:59:01 AM: Making IsIdTokenValid Call..
+1/30/2019 10:59:01 AM: IdToken Signature is verified..
+1/30/2019 10:59:01 AM: IsIdToken Valid Call completed..
+1/30/2019 10:59:07 AM: Performing Revoke tokens..
+1/30/2019 10:59:08 AM: HTTP Status: UnsupportedMediaType.
+1/30/2019 10:59:08 AM: Token revoked..
+1/30/2019 10:59:12 AM: Fetching Discovery Data..
+1/30/2019 10:59:13 AM: Discovery Data obtained..
+1/30/2019 10:59:13 AM: Making Get JWKS Keys Call..
+1/30/2019 10:59:13 AM: JWKS Keys obtained..
+1/30/2019 10:59:13 AM: Intiating OAuth2 call to get code..
+1/30/2019 10:59:13 AM: Authorization code obtained..
+1/30/2019 10:59:13 AM: Exchanging code for tokens..
+1/30/2019 10:59:14 AM: Making IsIdTokenValid Call..
+1/30/2019 10:59:14 AM: IdToken Signature is verified..
+1/30/2019 10:59:14 AM: IsIdToken Valid Call completed..
+1/30/2019 10:59:17 AM: Making Get User Profile Call..
+1/30/2019 10:59:17 AM: Communication with Core OK..
+1/30/2019 10:59:17 AM: Get User Profile Call completed..
+1/30/2019 11:03:26 AM: Fetching Discovery Data..
+1/30/2019 11:03:27 AM: Discovery Data obtained..
+1/30/2019 11:03:27 AM: Making Get JWKS Keys Call..
+1/30/2019 11:03:28 AM: JWKS Keys obtained..
+1/30/2019 11:03:28 AM: Intiating OAuth2 call to get code..
+1/30/2019 11:03:33 AM: Authorization code obtained..
+1/30/2019 11:03:33 AM: Exchanging code for tokens..
+1/30/2019 11:03:34 AM: Access token obtained..
+1/30/2019 11:03:34 AM: Making Get User Profile Call..
+1/30/2019 11:03:34 AM: HTTP Status: Forbidden.
+1/30/2019 11:03:34 AM: Bearer,error="insufficient_scope".
+1/30/2019 11:03:36 AM: Making Core API Call..
+1/30/2019 11:03:38 AM: Communication with Core OK..
+1/30/2019 11:03:58 AM: Performing Revoke tokens..
+1/30/2019 11:03:59 AM: HTTP Status: UnsupportedMediaType.
+1/30/2019 11:03:59 AM: Token revoked..
+1/30/2019 11:04:04 AM: Fetching Discovery Data..
+1/30/2019 11:04:04 AM: Discovery Data obtained..
+1/30/2019 11:04:04 AM: Making Get JWKS Keys Call..
+1/30/2019 11:04:05 AM: JWKS Keys obtained..
+1/30/2019 11:04:05 AM: Intiating OAuth2 call to get code..
+1/30/2019 11:04:08 AM: Authorization code obtained..
+1/30/2019 11:04:08 AM: Exchanging code for tokens..
+1/30/2019 11:04:08 AM: Making IsIdTokenValid Call..
+1/30/2019 11:04:08 AM: IdToken Signature is verified..
+1/30/2019 11:04:08 AM: IsIdToken Valid Call completed..
+1/30/2019 11:04:59 AM: Making Get User Profile Call..
+1/30/2019 11:04:59 AM: Communication with Core OK..
+1/30/2019 11:04:59 AM: Get User Profile Call completed..
+1/30/2019 11:48:00 AM: Fetching Discovery Data..
+1/30/2019 11:48:02 AM: Discovery Data obtained..
+1/30/2019 11:48:02 AM: Making Get JWKS Keys Call..
+1/30/2019 11:48:02 AM: JWKS Keys obtained..
+1/30/2019 11:48:02 AM: Intiating OAuth2 call to get code..
+1/30/2019 11:48:04 AM: Authorization code obtained..
+1/30/2019 11:48:04 AM: Exchanging code for tokens..
+1/30/2019 11:48:04 AM: Making IsIdTokenValid Call..
+1/30/2019 11:48:04 AM: IdToken Signature is verified..
+1/30/2019 11:48:04 AM: IsIdToken Valid Call completed..
+1/30/2019 11:48:08 AM: Performing Revoke tokens..
+1/30/2019 11:48:09 AM: HTTP Status: UnsupportedMediaType.
+1/30/2019 11:48:09 AM: Token revoked..
+1/30/2019 11:48:16 AM: Fetching Discovery Data..
+1/30/2019 11:48:17 AM: Discovery Data obtained..
+1/30/2019 11:48:17 AM: Making Get JWKS Keys Call..
+1/30/2019 11:48:17 AM: JWKS Keys obtained..
+1/30/2019 11:48:17 AM: Intiating OAuth2 call to get code..
+1/30/2019 11:48:21 AM: Authorization code obtained..
+1/30/2019 11:48:21 AM: Exchanging code for tokens..
+1/30/2019 11:48:21 AM: Access token obtained..
+1/30/2019 11:48:21 AM: Making Get User Profile Call..
+1/30/2019 11:48:22 AM: HTTP Status: Forbidden.
+1/30/2019 11:48:22 AM: Bearer,error="insufficient_scope".
+1/30/2019 11:48:23 AM: Making Core API Call..
+1/30/2019 11:48:32 AM: Communication with Core OK..
+1/30/2019 11:48:35 AM: Performing Revoke tokens..
+1/30/2019 11:48:36 AM: HTTP Status: UnsupportedMediaType.
+1/30/2019 11:48:36 AM: Token revoked..
+1/30/2019 12:29:36 PM: Fetching Discovery Data..
+1/30/2019 12:29:42 PM: Discovery Data obtained..
+1/30/2019 12:29:42 PM: Making Get JWKS Keys Call..
+1/30/2019 12:29:43 PM: JWKS Keys obtained..
+1/30/2019 12:29:45 PM: Intiating OAuth2 call to get code..
+1/30/2019 12:30:11 PM: Authorization code obtained..
+1/30/2019 12:30:11 PM: Exchanging code for tokens..
+1/30/2019 12:30:28 PM: Access token obtained..
+1/30/2019 12:30:28 PM: Making Get User Profile Call..
+1/30/2019 12:30:30 PM: HTTP Status: Forbidden.
+1/30/2019 12:30:30 PM: Bearer,error="insufficient_scope".
+1/30/2019 12:30:49 PM: Making Core API Call..
+1/30/2019 12:31:58 PM: Communication with Core OK..
+1/30/2019 12:45:03 PM: Fetching Discovery Data..
+1/30/2019 12:45:04 PM: Discovery Data obtained..
+1/30/2019 12:45:04 PM: Making Get JWKS Keys Call..
+1/30/2019 12:45:05 PM: JWKS Keys obtained..
+1/30/2019 12:45:06 PM: Intiating OAuth2 call to get code..
+1/30/2019 12:45:13 PM: Authorization code obtained..
+1/30/2019 12:45:13 PM: Exchanging code for tokens..
+1/30/2019 12:45:17 PM: Access token obtained..
+1/30/2019 12:45:18 PM: Making Get User Profile Call..
+1/30/2019 12:45:20 PM: HTTP Status: Forbidden.
+1/30/2019 12:45:20 PM: Bearer,error="insufficient_scope".
+1/30/2019 12:45:31 PM: Making Core API Call..
+1/30/2019 12:45:49 PM: Communication with Core OK..
+1/30/2019 12:45:58 PM: Performing POST data..
+1/30/2019 12:46:44 PM: HTTP Status: Conflict.
+1/30/2019 12:46:44 PM: {"ErrorCode":null,"Type":"ApiException","Key":"InValidModel","HelpLink":"http://bqe.com","Message":"The request cannot be completed. The data submitted is invalid.","DeveloperMessage":"þErrorCode: \r\nKey: InValidModelþ\r\nValue: The request cannot be completed. The data submitted is invalid. þ\r\n","StatusCode":409}.
+1/30/2019 12:46:44 PM: New Record Added..
+1/30/2019 12:46:56 PM: Performing POST data..
+1/30/2019 12:47:40 PM: HTTP Status: Conflict.
+1/30/2019 12:47:40 PM: {"ErrorCode":null,"Type":"ApiException","Key":"InValidModel","HelpLink":"http://bqe.com","Message":"The request cannot be completed. The data submitted is invalid.","DeveloperMessage":"þErrorCode: \r\nKey: InValidModelþ\r\nValue: The request cannot be completed. The data submitted is invalid. þ\r\n","StatusCode":409}.
+1/30/2019 12:47:40 PM: New Record Added..
+1/30/2019 12:47:45 PM: Performing POST data..
+1/30/2019 12:48:58 PM: Making Core API Call..
+1/30/2019 12:49:09 PM: Communication with Core OK..
+1/30/2019 12:49:34 PM: Performing POST data..
+1/30/2019 12:53:07 PM: Fetching Discovery Data..
+1/30/2019 12:53:09 PM: Discovery Data obtained..
+1/30/2019 12:53:09 PM: Making Get JWKS Keys Call..
+1/30/2019 12:53:09 PM: JWKS Keys obtained..
+1/30/2019 12:53:09 PM: Intiating OAuth2 call to get code..
+1/30/2019 12:53:16 PM: Authorization code obtained..
+1/30/2019 12:53:16 PM: Exchanging code for tokens..
+1/30/2019 12:53:16 PM: Access token obtained..
+1/30/2019 12:53:16 PM: Making Get User Profile Call..
+1/30/2019 12:53:17 PM: HTTP Status: Forbidden.
+1/30/2019 12:53:17 PM: Bearer,error="insufficient_scope".
+1/30/2019 12:53:20 PM: Performing POST data..
+1/30/2019 12:53:22 PM: Successful POST!.
+1/30/2019 12:53:22 PM: Communication with Core OK..
+1/30/2019 12:54:05 PM: Fetching Discovery Data..
+1/30/2019 12:54:07 PM: Discovery Data obtained..
+1/30/2019 12:54:07 PM: Making Get JWKS Keys Call..
+1/30/2019 12:54:07 PM: JWKS Keys obtained..
+1/30/2019 12:54:08 PM: Intiating OAuth2 call to get code..
+1/30/2019 12:54:25 PM: Authorization code obtained..
+1/30/2019 12:54:25 PM: Exchanging code for tokens..
+1/30/2019 12:54:30 PM: Access token obtained..
+1/30/2019 12:54:31 PM: Making Get User Profile Call..
+1/30/2019 12:54:35 PM: HTTP Status: Forbidden.
+1/30/2019 12:54:35 PM: Bearer,error="insufficient_scope".
+1/30/2019 12:54:42 PM: Performing POST data..
+1/30/2019 12:54:55 PM: HTTP Status: Conflict.
+1/30/2019 12:54:55 PM: {"Type":"Exception","HelpLink":null,"Message":"An error occurred while sending the request."}.
+1/30/2019 12:54:55 PM: New Record Added..
+1/30/2019 12:55:00 PM: Performing POST data..
+1/30/2019 12:55:34 PM: Successful POST!.
+1/30/2019 12:56:07 PM: Communication with Core OK..
+1/30/2019 12:58:30 PM: Performing POST data..
+1/30/2019 12:59:03 PM: Successful POST!.
+1/30/2019 12:59:03 PM: Communication with Core OK..
+1/30/2019 12:59:11 PM: New Record Added..
+1/30/2019 1:19:29 PM: Fetching Discovery Data..
+1/30/2019 1:19:30 PM: Discovery Data obtained..
+1/30/2019 1:19:30 PM: Making Get JWKS Keys Call..
+1/30/2019 1:19:31 PM: JWKS Keys obtained..
+1/30/2019 1:19:31 PM: Intiating OAuth2 call to get code..
+1/30/2019 1:19:43 PM: Authorization code obtained..
+1/30/2019 1:19:43 PM: Exchanging code for tokens..
+1/30/2019 1:19:44 PM: Access token obtained..
+1/30/2019 1:19:44 PM: Making Get User Profile Call..
+1/30/2019 1:19:44 PM: HTTP Status: Forbidden.
+1/30/2019 1:19:44 PM: Bearer,error="insufficient_scope".
+1/30/2019 1:19:56 PM: Making Core API Call..
+1/30/2019 1:20:04 PM: Communication with Core OK..
+1/30/2019 1:20:33 PM: Performing Revoke tokens..
+1/30/2019 1:20:35 PM: HTTP Status: UnsupportedMediaType.
+1/30/2019 1:20:35 PM: Token revoked..
+1/30/2019 3:40:09 PM: Fetching Discovery Data..
+1/30/2019 3:40:17 PM: Discovery Data obtained..
+1/30/2019 3:40:17 PM: Making Get JWKS Keys Call..
+1/30/2019 3:40:17 PM: JWKS Keys obtained..
+1/30/2019 3:40:17 PM: Intiating OAuth2 call to get code..
+1/30/2019 3:40:47 PM: Fetching Discovery Data..
+1/30/2019 3:40:48 PM: Discovery Data obtained..
+1/30/2019 3:40:48 PM: Making Get JWKS Keys Call..
+1/30/2019 3:40:48 PM: JWKS Keys obtained..
+1/30/2019 3:40:48 PM: Intiating OAuth2 call to get code..
+1/30/2019 3:40:59 PM: Invalid State.
+1/30/2019 3:41:10 PM: Fetching Discovery Data..
+1/30/2019 3:41:11 PM: Discovery Data obtained..
+1/30/2019 3:41:11 PM: Making Get JWKS Keys Call..
+1/30/2019 3:41:11 PM: JWKS Keys obtained..
+1/30/2019 3:41:11 PM: Intiating OAuth2 call to get code..
+1/30/2019 3:41:12 PM: Authorization code obtained..
+1/30/2019 3:41:12 PM: Exchanging code for tokens..
+1/30/2019 3:41:12 PM: Making IsIdTokenValid Call..
+1/30/2019 3:41:12 PM: IdToken Signature is verified..
+1/30/2019 3:41:12 PM: IsIdToken Valid Call completed..
+1/30/2019 3:41:56 PM: Making Get User Profile Call..
+1/30/2019 3:41:57 PM: Communication with Core OK..
+1/30/2019 3:41:57 PM: Get User Profile Call completed..
+1/30/2019 3:43:10 PM: Performing Revoke tokens..
+1/30/2019 3:43:11 PM: HTTP Status: UnsupportedMediaType.
+1/30/2019 3:43:11 PM: Token revoked..
+1/30/2019 3:43:16 PM: Fetching Discovery Data..
+1/30/2019 3:43:16 PM: Discovery Data obtained..
+1/30/2019 3:43:16 PM: Making Get JWKS Keys Call..
+1/30/2019 3:43:17 PM: JWKS Keys obtained..
+1/30/2019 3:43:17 PM: Intiating OAuth2 call to get code..
+1/30/2019 3:44:26 PM: Fetching Discovery Data..
+1/30/2019 3:44:27 PM: Discovery Data obtained..
+1/30/2019 3:44:27 PM: Making Get JWKS Keys Call..
+1/30/2019 3:44:27 PM: JWKS Keys obtained..
+1/30/2019 3:44:27 PM: Intiating OAuth2 call to get code..
+1/30/2019 3:45:03 PM: Fetching Discovery Data..
+1/30/2019 3:45:04 PM: Discovery Data obtained..
+1/30/2019 3:45:04 PM: Making Get JWKS Keys Call..
+1/30/2019 3:45:04 PM: JWKS Keys obtained..
+1/30/2019 3:45:04 PM: Intiating OAuth2 call to get code..
+1/30/2019 3:45:09 PM: Invalid State.
+1/30/2019 3:45:25 PM: Fetching Discovery Data..
+1/30/2019 3:45:25 PM: Discovery Data obtained..
+1/30/2019 3:45:25 PM: Making Get JWKS Keys Call..
+1/30/2019 3:45:26 PM: JWKS Keys obtained..
+1/30/2019 3:45:26 PM: Intiating OAuth2 call to get code..
+1/30/2019 3:45:29 PM: Authorization code obtained..
+1/30/2019 3:45:29 PM: Exchanging code for tokens..
+1/30/2019 3:45:30 PM: Access token obtained..
+1/30/2019 3:45:30 PM: Making Get User Profile Call..
+1/30/2019 3:45:30 PM: HTTP Status: Forbidden.
+1/30/2019 3:45:30 PM: Bearer,error="insufficient_scope".
+1/30/2019 3:46:11 PM: Making Core API Call..
+1/30/2019 3:46:19 PM: Communication with Core OK..
+1/30/2019 3:47:40 PM: Performing Revoke tokens..
+1/30/2019 3:47:41 PM: HTTP Status: UnsupportedMediaType.
+1/30/2019 3:47:41 PM: Token revoked..
+1/30/2019 4:25:55 PM: Fetching Discovery Data..
+1/30/2019 4:25:57 PM: Discovery Data obtained..
+1/30/2019 4:25:57 PM: Making Get JWKS Keys Call..
+1/30/2019 4:25:57 PM: JWKS Keys obtained..
+1/30/2019 4:25:57 PM: Intiating OAuth2 call to get code..
+1/30/2019 4:26:35 PM: Fetching Discovery Data..
+1/30/2019 4:26:36 PM: Discovery Data obtained..
+1/30/2019 4:26:36 PM: Making Get JWKS Keys Call..
+1/30/2019 4:26:36 PM: JWKS Keys obtained..
+1/30/2019 4:26:36 PM: Intiating OAuth2 call to get code..
+1/30/2019 4:29:11 PM: Fetching Discovery Data..
+1/30/2019 4:29:12 PM: Discovery Data obtained..
+1/30/2019 4:29:12 PM: Making Get JWKS Keys Call..
+1/30/2019 4:29:12 PM: JWKS Keys obtained..
+1/30/2019 4:29:12 PM: Intiating OAuth2 call to get code..
+1/30/2019 4:29:20 PM: Invalid State.
+1/30/2019 4:29:25 PM: Fetching Discovery Data..
+1/30/2019 4:29:26 PM: Discovery Data obtained..
+1/30/2019 4:29:26 PM: Making Get JWKS Keys Call..
+1/30/2019 4:29:26 PM: JWKS Keys obtained..
+1/30/2019 4:29:26 PM: Intiating OAuth2 call to get code..
+1/30/2019 4:29:30 PM: Authorization code obtained..
+1/30/2019 4:29:30 PM: Exchanging code for tokens..
+1/30/2019 4:29:31 PM: Access token obtained..
+1/30/2019 4:29:31 PM: Making Get User Profile Call..
+1/30/2019 4:29:31 PM: HTTP Status: Forbidden.
+1/30/2019 4:29:31 PM: Bearer,error="insufficient_scope".
+1/30/2019 4:29:36 PM: Making Core API Call..
+1/30/2019 4:29:46 PM: Communication with Core OK..
+1/30/2019 5:01:35 PM: Fetching Discovery Data..
+1/30/2019 5:01:37 PM: Discovery Data obtained..
+1/30/2019 5:01:37 PM: Making Get JWKS Keys Call..
+1/30/2019 5:01:37 PM: JWKS Keys obtained..
+1/30/2019 5:01:37 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:01:41 PM: Authorization code obtained..
+1/30/2019 5:01:41 PM: Exchanging code for tokens..
+1/30/2019 5:01:42 PM: Access token obtained..
+1/30/2019 5:01:42 PM: Making Get User Profile Call..
+1/30/2019 5:01:42 PM: HTTP Status: Forbidden.
+1/30/2019 5:01:42 PM: Bearer,error="insufficient_scope".
+1/30/2019 5:09:12 PM: Making Core API Call..
+1/30/2019 5:09:14 PM: Communication with Core OK..
+1/30/2019 5:12:25 PM: Fetching Discovery Data..
+1/30/2019 5:12:26 PM: Discovery Data obtained..
+1/30/2019 5:12:26 PM: Making Get JWKS Keys Call..
+1/30/2019 5:12:27 PM: JWKS Keys obtained..
+1/30/2019 5:12:27 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:12:31 PM: Authorization code obtained..
+1/30/2019 5:12:31 PM: Exchanging code for tokens..
+1/30/2019 5:12:32 PM: Access token obtained..
+1/30/2019 5:12:32 PM: Making Get User Profile Call..
+1/30/2019 5:12:32 PM: HTTP Status: Forbidden.
+1/30/2019 5:12:32 PM: Bearer,error="insufficient_scope".
+1/30/2019 5:12:35 PM: Making Core API Call..
+1/30/2019 5:12:36 PM: Communication with Core OK..
+1/30/2019 5:13:55 PM: Fetching Discovery Data..
+1/30/2019 5:13:56 PM: Discovery Data obtained..
+1/30/2019 5:13:56 PM: Making Get JWKS Keys Call..
+1/30/2019 5:13:57 PM: JWKS Keys obtained..
+1/30/2019 5:13:57 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:14:00 PM: Authorization code obtained..
+1/30/2019 5:14:00 PM: Exchanging code for tokens..
+1/30/2019 5:14:01 PM: Access token obtained..
+1/30/2019 5:14:01 PM: Making Get User Profile Call..
+1/30/2019 5:14:01 PM: HTTP Status: Forbidden.
+1/30/2019 5:14:01 PM: Bearer,error="insufficient_scope".
+1/30/2019 5:14:02 PM: Making Core API Call..
+1/30/2019 5:14:04 PM: Communication with Core OK..
+1/30/2019 5:14:54 PM: Performing Revoke tokens..
+1/30/2019 5:14:55 PM: HTTP Status: UnsupportedMediaType.
+1/30/2019 5:14:55 PM: Token revoked..
+1/30/2019 5:17:16 PM: Fetching Discovery Data..
+1/30/2019 5:17:17 PM: Discovery Data obtained..
+1/30/2019 5:17:17 PM: Making Get JWKS Keys Call..
+1/30/2019 5:17:18 PM: JWKS Keys obtained..
+1/30/2019 5:17:18 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:17:22 PM: Authorization code obtained..
+1/30/2019 5:17:22 PM: Exchanging code for tokens..
+1/30/2019 5:17:23 PM: Access token obtained..
+1/30/2019 5:17:23 PM: Making Get User Profile Call..
+1/30/2019 5:17:23 PM: HTTP Status: Forbidden.
+1/30/2019 5:17:23 PM: Bearer,error="insufficient_scope".
+1/30/2019 5:17:25 PM: Making Core API Call..
+1/30/2019 5:17:27 PM: Communication with Core OK..
+1/30/2019 5:17:45 PM: Making Core API Call..
+1/30/2019 5:17:50 PM: Communication with Core OK..
+1/30/2019 5:18:49 PM: Fetching Discovery Data..
+1/30/2019 5:18:51 PM: Discovery Data obtained..
+1/30/2019 5:18:51 PM: Making Get JWKS Keys Call..
+1/30/2019 5:18:51 PM: JWKS Keys obtained..
+1/30/2019 5:18:51 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:18:54 PM: Authorization code obtained..
+1/30/2019 5:18:54 PM: Exchanging code for tokens..
+1/30/2019 5:18:55 PM: Access token obtained..
+1/30/2019 5:18:55 PM: Making Get User Profile Call..
+1/30/2019 5:18:56 PM: HTTP Status: Forbidden.
+1/30/2019 5:18:56 PM: Bearer,error="insufficient_scope".
+1/30/2019 5:18:57 PM: Making Core API Call..
+1/30/2019 5:18:59 PM: Communication with Core OK..
+1/30/2019 5:22:18 PM: Fetching Discovery Data..
+1/30/2019 5:22:20 PM: Discovery Data obtained..
+1/30/2019 5:22:20 PM: Making Get JWKS Keys Call..
+1/30/2019 5:22:20 PM: JWKS Keys obtained..
+1/30/2019 5:22:20 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:22:25 PM: Authorization code obtained..
+1/30/2019 5:22:26 PM: Exchanging code for tokens..
+1/30/2019 5:22:26 PM: Access token obtained..
+1/30/2019 5:22:26 PM: Making Get User Profile Call..
+1/30/2019 5:22:27 PM: HTTP Status: Forbidden.
+1/30/2019 5:22:27 PM: Bearer,error="insufficient_scope".
+1/30/2019 5:22:29 PM: Making Core API Call..
+1/30/2019 5:22:30 PM: Communication with Core OK..
+1/30/2019 5:24:25 PM: Fetching Discovery Data..
+1/30/2019 5:24:27 PM: Discovery Data obtained..
+1/30/2019 5:24:27 PM: Making Get JWKS Keys Call..
+1/30/2019 5:24:27 PM: JWKS Keys obtained..
+1/30/2019 5:24:27 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:24:31 PM: Authorization code obtained..
+1/30/2019 5:24:31 PM: Exchanging code for tokens..
+1/30/2019 5:24:32 PM: Access token obtained..
+1/30/2019 5:24:32 PM: Making Get User Profile Call..
+1/30/2019 5:24:32 PM: HTTP Status: Forbidden.
+1/30/2019 5:24:32 PM: Bearer,error="insufficient_scope".
+1/30/2019 5:24:34 PM: Making Core API Call..
+1/30/2019 5:24:35 PM: Communication with Core OK..
+1/30/2019 5:25:23 PM: Fetching Discovery Data..
+1/30/2019 5:25:24 PM: Discovery Data obtained..
+1/30/2019 5:25:24 PM: Making Get JWKS Keys Call..
+1/30/2019 5:25:25 PM: JWKS Keys obtained..
+1/30/2019 5:25:25 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:25:28 PM: Fetching Discovery Data..
+1/30/2019 5:25:29 PM: Discovery Data obtained..
+1/30/2019 5:25:29 PM: Making Get JWKS Keys Call..
+1/30/2019 5:25:29 PM: JWKS Keys obtained..
+1/30/2019 5:25:29 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:25:32 PM: Invalid State.
+1/30/2019 5:25:36 PM: Fetching Discovery Data..
+1/30/2019 5:25:36 PM: Discovery Data obtained..
+1/30/2019 5:25:36 PM: Making Get JWKS Keys Call..
+1/30/2019 5:25:36 PM: JWKS Keys obtained..
+1/30/2019 5:25:36 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:25:40 PM: Authorization code obtained..
+1/30/2019 5:25:40 PM: Exchanging code for tokens..
+1/30/2019 5:25:40 PM: Access token obtained..
+1/30/2019 5:25:40 PM: Making Get User Profile Call..
+1/30/2019 5:25:41 PM: HTTP Status: Forbidden.
+1/30/2019 5:25:41 PM: Bearer,error="insufficient_scope".
+1/30/2019 5:25:42 PM: Making Core API Call..
+1/30/2019 5:25:44 PM: Communication with Core OK..
+1/30/2019 5:26:31 PM: Fetching Discovery Data..
+1/30/2019 5:26:32 PM: Discovery Data obtained..
+1/30/2019 5:26:32 PM: Making Get JWKS Keys Call..
+1/30/2019 5:26:32 PM: JWKS Keys obtained..
+1/30/2019 5:26:32 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:26:35 PM: Authorization code obtained..
+1/30/2019 5:26:35 PM: Exchanging code for tokens..
+1/30/2019 5:26:36 PM: Access token obtained..
+1/30/2019 5:26:36 PM: Making Get User Profile Call..
+1/30/2019 5:26:36 PM: HTTP Status: Forbidden.
+1/30/2019 5:26:36 PM: Bearer,error="insufficient_scope".
+1/30/2019 5:26:38 PM: Making Core API Call..
+1/30/2019 5:26:39 PM: Communication with Core OK..
+1/30/2019 5:27:28 PM: Fetching Discovery Data..
+1/30/2019 5:27:30 PM: Discovery Data obtained..
+1/30/2019 5:27:30 PM: Making Get JWKS Keys Call..
+1/30/2019 5:27:30 PM: JWKS Keys obtained..
+1/30/2019 5:27:30 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:27:33 PM: Authorization code obtained..
+1/30/2019 5:27:33 PM: Exchanging code for tokens..
+1/30/2019 5:27:34 PM: Access token obtained..
+1/30/2019 5:27:34 PM: Making Get User Profile Call..
+1/30/2019 5:27:34 PM: HTTP Status: Forbidden.
+1/30/2019 5:27:34 PM: Bearer,error="insufficient_scope".
+1/30/2019 5:27:37 PM: Making Core API Call..
+1/30/2019 5:27:38 PM: Communication with Core OK..
+1/30/2019 5:28:48 PM: Fetching Discovery Data..
+1/30/2019 5:28:50 PM: Discovery Data obtained..
+1/30/2019 5:28:50 PM: Making Get JWKS Keys Call..
+1/30/2019 5:28:50 PM: JWKS Keys obtained..
+1/30/2019 5:28:50 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:28:53 PM: Authorization code obtained..
+1/30/2019 5:28:53 PM: Exchanging code for tokens..
+1/30/2019 5:28:54 PM: Access token obtained..
+1/30/2019 5:28:54 PM: Making Get User Profile Call..
+1/30/2019 5:28:54 PM: HTTP Status: Forbidden.
+1/30/2019 5:28:54 PM: Bearer,error="insufficient_scope".
+1/30/2019 5:28:56 PM: Making Core API Call..
+1/30/2019 5:28:57 PM: Communication with Core OK..
+1/30/2019 5:29:58 PM: Fetching Discovery Data..
+1/30/2019 5:30:00 PM: Discovery Data obtained..
+1/30/2019 5:30:00 PM: Making Get JWKS Keys Call..
+1/30/2019 5:30:00 PM: JWKS Keys obtained..
+1/30/2019 5:30:00 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:30:03 PM: Authorization code obtained..
+1/30/2019 5:30:03 PM: Exchanging code for tokens..
+1/30/2019 5:30:04 PM: Access token obtained..
+1/30/2019 5:30:04 PM: Making Get User Profile Call..
+1/30/2019 5:30:04 PM: HTTP Status: Forbidden.
+1/30/2019 5:30:04 PM: Bearer,error="insufficient_scope".
+1/30/2019 5:31:48 PM: Fetching Discovery Data..
+1/30/2019 5:31:49 PM: Discovery Data obtained..
+1/30/2019 5:31:49 PM: Making Get JWKS Keys Call..
+1/30/2019 5:31:50 PM: JWKS Keys obtained..
+1/30/2019 5:31:50 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:31:53 PM: Authorization code obtained..
+1/30/2019 5:31:53 PM: Exchanging code for tokens..
+1/30/2019 5:31:54 PM: Access token obtained..
+1/30/2019 5:31:54 PM: Making Get User Profile Call..
+1/30/2019 5:31:54 PM: HTTP Status: Forbidden.
+1/30/2019 5:31:54 PM: Bearer,error="insufficient_scope".
+1/30/2019 5:32:29 PM: Fetching Discovery Data..
+1/30/2019 5:32:31 PM: Discovery Data obtained..
+1/30/2019 5:32:31 PM: Making Get JWKS Keys Call..
+1/30/2019 5:32:31 PM: JWKS Keys obtained..
+1/30/2019 5:32:31 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:32:35 PM: Authorization code obtained..
+1/30/2019 5:32:35 PM: Exchanging code for tokens..
+1/30/2019 5:32:35 PM: Access token obtained..
+1/30/2019 5:32:35 PM: Making Get User Profile Call..
+1/30/2019 5:32:36 PM: HTTP Status: Forbidden.
+1/30/2019 5:32:36 PM: Bearer,error="insufficient_scope".
+1/30/2019 5:33:06 PM: Fetching Discovery Data..
+1/30/2019 5:33:07 PM: Discovery Data obtained..
+1/30/2019 5:33:07 PM: Making Get JWKS Keys Call..
+1/30/2019 5:33:08 PM: JWKS Keys obtained..
+1/30/2019 5:33:08 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:33:15 PM: Authorization code obtained..
+1/30/2019 5:33:15 PM: Exchanging code for tokens..
+1/30/2019 5:33:16 PM: Access token obtained..
+1/30/2019 5:33:16 PM: Making Get User Profile Call..
+1/30/2019 5:33:16 PM: HTTP Status: Forbidden.
+1/30/2019 5:33:16 PM: Bearer,error="insufficient_scope".
+1/30/2019 5:33:21 PM: Making Core API Call..
+1/30/2019 5:33:22 PM: Communication with Core OK..
+1/30/2019 5:33:31 PM: Performing Revoke tokens..
+1/30/2019 5:33:33 PM: HTTP Status: UnsupportedMediaType.
+1/30/2019 5:33:33 PM: Token revoked..
+1/30/2019 5:33:35 PM: Fetching Discovery Data..
+1/30/2019 5:33:35 PM: Discovery Data obtained..
+1/30/2019 5:33:35 PM: Making Get JWKS Keys Call..
+1/30/2019 5:33:36 PM: JWKS Keys obtained..
+1/30/2019 5:33:36 PM: Intiating OAuth2 call to get code..
+1/30/2019 5:33:39 PM: Authorization code obtained..
+1/30/2019 5:33:39 PM: Exchanging code for tokens..
+1/30/2019 5:33:40 PM: Making IsIdTokenValid Call..
+1/30/2019 5:33:40 PM: IdToken Signature is verified..
+1/30/2019 5:33:40 PM: IsIdToken Valid Call completed..
+1/30/2019 5:33:42 PM: Making Get User Profile Call..
+1/30/2019 5:33:42 PM: Communication with Core OK..
+1/30/2019 5:33:42 PM: Get User Profile Call completed..
+1/30/2019 5:33:47 PM: Performing Revoke tokens..
+1/30/2019 5:33:48 PM: HTTP Status: UnsupportedMediaType.
+1/30/2019 5:33:48 PM: Token revoked..
+1/31/2019 9:54:06 AM: Fetching Discovery Data..
+1/31/2019 9:55:15 AM: Discovery Data obtained..
+1/31/2019 9:55:19 AM: Making Get JWKS Keys Call..
+1/31/2019 9:57:00 AM: JWKS Keys obtained..
+1/31/2019 9:57:20 AM: Intiating OAuth2 call to get code..
+1/31/2019 9:58:26 AM: Fetching Discovery Data..
+1/31/2019 9:58:27 AM: Discovery Data obtained..
+1/31/2019 9:58:27 AM: Making Get JWKS Keys Call..
+1/31/2019 9:58:27 AM: JWKS Keys obtained..
+1/31/2019 9:58:27 AM: Intiating OAuth2 call to get code..
+1/31/2019 9:58:42 AM: Fetching Discovery Data..
+1/31/2019 9:58:42 AM: Discovery Data obtained..
+1/31/2019 9:58:42 AM: Making Get JWKS Keys Call..
+1/31/2019 9:58:43 AM: JWKS Keys obtained..
+1/31/2019 9:58:43 AM: Intiating OAuth2 call to get code..
+1/31/2019 9:59:17 AM: Fetching Discovery Data..
+1/31/2019 9:59:17 AM: Discovery Data obtained..
+1/31/2019 9:59:17 AM: Making Get JWKS Keys Call..
+1/31/2019 9:59:17 AM: JWKS Keys obtained..
+1/31/2019 9:59:17 AM: Intiating OAuth2 call to get code..
+1/31/2019 9:59:42 AM: Fetching Discovery Data..
+1/31/2019 9:59:42 AM: Discovery Data obtained..
+1/31/2019 9:59:42 AM: Making Get JWKS Keys Call..
+1/31/2019 9:59:42 AM: JWKS Keys obtained..
+1/31/2019 9:59:42 AM: Intiating OAuth2 call to get code..
+1/31/2019 10:00:40 AM: Fetching Discovery Data..
+1/31/2019 10:00:42 AM: Discovery Data obtained..
+1/31/2019 10:00:42 AM: Making Get JWKS Keys Call..
+1/31/2019 10:00:42 AM: JWKS Keys obtained..
+1/31/2019 10:00:42 AM: Intiating OAuth2 call to get code..
+1/31/2019 10:01:01 AM: Authorization code obtained..
+1/31/2019 10:01:06 AM: Exchanging code for tokens..
+1/31/2019 10:01:45 AM: Making IsIdTokenValid Call..
+1/31/2019 10:01:45 AM: IdToken Signature is verified..
+1/31/2019 10:01:45 AM: IsIdToken Valid Call completed..
+1/31/2019 10:04:37 AM: Fetching Discovery Data..
+1/31/2019 10:04:38 AM: Discovery Data obtained..
+1/31/2019 10:04:38 AM: Making Get JWKS Keys Call..
+1/31/2019 10:04:38 AM: JWKS Keys obtained..
+1/31/2019 10:04:38 AM: Intiating OAuth2 call to get code..
+1/31/2019 10:04:43 AM: Authorization code obtained..
+1/31/2019 10:04:43 AM: Exchanging code for tokens..
+1/31/2019 10:04:44 AM: Making IsIdTokenValid Call..
+1/31/2019 10:04:44 AM: IdToken Signature is verified..
+1/31/2019 10:04:44 AM: IsIdToken Valid Call completed..
+1/31/2019 10:04:47 AM: Making Get User Profile Call..
+1/31/2019 10:04:47 AM: Communication with Core OK..
+1/31/2019 10:04:47 AM: Get User Profile Call completed..
+1/31/2019 10:09:25 AM: Fetching Discovery Data..
+1/31/2019 10:09:26 AM: Discovery Data obtained..
+1/31/2019 10:09:26 AM: Making Get JWKS Keys Call..
+1/31/2019 10:09:27 AM: JWKS Keys obtained..
+1/31/2019 10:09:27 AM: Intiating OAuth2 call to get code..
+1/31/2019 10:09:34 AM: Authorization code obtained..
+1/31/2019 10:09:34 AM: Exchanging code for tokens..
+1/31/2019 10:09:35 AM: Access token obtained..
+1/31/2019 10:09:35 AM: Making Get User Profile Call..
+1/31/2019 10:09:35 AM: HTTP Status: Forbidden.
+1/31/2019 10:09:35 AM: Bearer,error="insufficient_scope".
+1/31/2019 10:09:41 AM: Making Core API Call..
+1/31/2019 10:09:43 AM: Communication with Core OK..
+1/31/2019 10:09:50 AM: Performing POST data..
+1/31/2019 10:09:51 AM: Successful POST!.
+1/31/2019 10:09:51 AM: Communication with Core OK..
+1/31/2019 10:09:51 AM: New Record Added..
+1/31/2019 10:09:56 AM: Performing POST data..
+1/31/2019 10:09:56 AM: HTTP Status: Conflict.
+1/31/2019 10:09:56 AM: {"ErrorCode":null,"Type":"ApiException","Key":"AccountList_AccountIDAlreadyExists","HelpLink":"http://bqe.com","Message":"The ACCOUNT NUMBER (10110) is already in use. ","DeveloperMessage":"þErrorCode: \r\nKey: AccountList_AccountIDAlreadyExistsþ\r\nValue: The ACCOUNT NUMBER (#) is already in use.  þ\r\n","StatusCode":409}.
+1/31/2019 10:09:56 AM: New Record Added..
+1/31/2019 10:10:07 AM: Making Core API Call..
+1/31/2019 10:10:08 AM: Communication with Core OK..
+1/31/2019 10:10:12 AM: Performing POST data..
+1/31/2019 10:10:12 AM: HTTP Status: Conflict.
+1/31/2019 10:10:12 AM: {"ErrorCode":null,"Type":"ApiException","Key":"AccountList_AccountIDAlreadyExists","HelpLink":"http://bqe.com","Message":"The ACCOUNT NUMBER (10110) is already in use. ","DeveloperMessage":"þErrorCode: \r\nKey: AccountList_AccountIDAlreadyExistsþ\r\nValue: The ACCOUNT NUMBER (#) is already in use.  þ\r\n","StatusCode":409}.
+1/31/2019 10:10:12 AM: New Record Added..
+1/31/2019 10:10:18 AM: Performing POST data..
+1/31/2019 10:10:19 AM: HTTP Status: Conflict.
+1/31/2019 10:10:19 AM: {"ErrorCode":null,"Type":"ApiException","Key":"AccountList_AccountIDAlreadyExists","HelpLink":"http://bqe.com","Message":"The ACCOUNT NUMBER (10110) is already in use. ","DeveloperMessage":"þErrorCode: \r\nKey: AccountList_AccountIDAlreadyExistsþ\r\nValue: The ACCOUNT NUMBER (#) is already in use.  þ\r\n","StatusCode":409}.
+1/31/2019 10:10:19 AM: New Record Added..
+1/31/2019 10:10:28 AM: Performing Revoke tokens..
+1/31/2019 10:10:30 AM: HTTP Status: UnsupportedMediaType.
+1/31/2019 10:10:30 AM: Token revoked..
+1/31/2019 10:10:34 AM: Fetching Discovery Data..
+1/31/2019 10:10:34 AM: Discovery Data obtained..
+1/31/2019 10:10:34 AM: Making Get JWKS Keys Call..
+1/31/2019 10:10:35 AM: JWKS Keys obtained..
+1/31/2019 10:10:35 AM: Intiating OAuth2 call to get code..
+1/31/2019 10:10:43 AM: Authorization code obtained..
+1/31/2019 10:10:43 AM: Exchanging code for tokens..
+1/31/2019 10:10:44 AM: Making IsIdTokenValid Call..
+1/31/2019 10:10:44 AM: IdToken Signature is verified..
+1/31/2019 10:10:44 AM: IsIdToken Valid Call completed..
+1/31/2019 10:10:48 AM: Making Get User Profile Call..
+1/31/2019 10:10:48 AM: Communication with Core OK..
+1/31/2019 10:10:48 AM: Get User Profile Call completed..
+1/31/2019 10:11:02 AM: Performing Revoke tokens..
+1/31/2019 10:11:02 AM: HTTP Status: UnsupportedMediaType.
+1/31/2019 10:11:02 AM: Token revoked..
+2/1/2019 11:19:58 AM: Fetching Discovery Data..
+2/1/2019 11:20:00 AM: Discovery Data obtained..
+2/1/2019 11:20:00 AM: Making Get JWKS Keys Call..
+2/1/2019 11:20:00 AM: JWKS Keys obtained..
+2/1/2019 11:20:04 AM: Intiating OAuth2 call to get code..
+2/1/2019 11:20:20 AM: Fetching Discovery Data..
+2/1/2019 11:20:20 AM: Discovery Data obtained..
+2/1/2019 11:20:20 AM: Making Get JWKS Keys Call..
+2/1/2019 11:20:20 AM: JWKS Keys obtained..
+2/1/2019 11:20:21 AM: Intiating OAuth2 call to get code..
+2/1/2019 11:20:50 AM: Invalid State.
+2/1/2019 11:20:55 AM: Fetching Discovery Data..
+2/1/2019 11:20:56 AM: Discovery Data obtained..
+2/1/2019 11:20:56 AM: Making Get JWKS Keys Call..
+2/1/2019 11:20:56 AM: JWKS Keys obtained..
+2/1/2019 11:20:57 AM: Intiating OAuth2 call to get code..
+2/1/2019 11:21:04 AM: Authorization code obtained..
+2/1/2019 11:21:07 AM: Exchanging code for tokens..
+2/1/2019 11:21:51 AM: Access token obtained..
+2/1/2019 11:21:51 AM: Making Get User Profile Call..
+2/1/2019 11:21:55 AM: HTTP Status: Forbidden.
+2/1/2019 11:21:55 AM: Bearer,error="insufficient_scope".
+2/1/2019 11:23:03 AM: Making Core API Call..
+2/1/2019 11:23:20 AM: Communication with Core OK..
+2/1/2019 11:23:25 AM: Performing Revoke tokens..
+2/1/2019 11:23:27 AM: HTTP Status: UnsupportedMediaType.
+2/1/2019 11:23:27 AM: Token revoked..
+2/1/2019 11:23:32 AM: Fetching Discovery Data..
+2/1/2019 11:23:33 AM: Discovery Data obtained..
+2/1/2019 11:23:33 AM: Making Get JWKS Keys Call..
+2/1/2019 11:23:33 AM: JWKS Keys obtained..
+2/1/2019 11:23:34 AM: Intiating OAuth2 call to get code..
+2/1/2019 11:27:24 AM: Authorization code obtained..
+2/1/2019 11:27:27 AM: Exchanging code for tokens..
+2/1/2019 11:27:37 AM: Access token obtained..
+2/1/2019 11:28:51 AM: Making Get User Profile Call..
+2/1/2019 11:28:55 AM: HTTP Status: Forbidden.
+2/1/2019 11:28:55 AM: Bearer,error="insufficient_scope".
+2/1/2019 11:29:05 AM: Performing Revoke tokens..
+2/1/2019 11:29:10 AM: HTTP Status: UnsupportedMediaType.
+2/1/2019 11:29:10 AM: Token revoked..
+2/1/2019 11:30:28 AM: Fetching Discovery Data..
+2/1/2019 11:30:28 AM: Discovery Data obtained..
+2/1/2019 11:30:28 AM: Making Get JWKS Keys Call..
+2/1/2019 11:30:29 AM: JWKS Keys obtained..
+2/1/2019 11:30:30 AM: Intiating OAuth2 call to get code..
+2/1/2019 11:33:31 AM: Fetching Discovery Data..
+2/1/2019 11:33:32 AM: Discovery Data obtained..
+2/1/2019 11:33:32 AM: Making Get JWKS Keys Call..
+2/1/2019 11:33:32 AM: JWKS Keys obtained..
+2/1/2019 11:33:33 AM: Intiating OAuth2 call to get code..
+2/1/2019 11:42:43 AM: Invalid State.
+2/1/2019 11:42:53 AM: Fetching Discovery Data..
+2/1/2019 11:42:54 AM: Discovery Data obtained..
+2/1/2019 11:42:54 AM: Making Get JWKS Keys Call..
+2/1/2019 11:42:55 AM: JWKS Keys obtained..
+2/1/2019 11:42:56 AM: Intiating OAuth2 call to get code..
+2/1/2019 11:43:54 AM: Authorization code obtained..
+2/1/2019 11:43:55 AM: Exchanging code for tokens..
+2/1/2019 11:43:57 AM: Access token obtained..
+2/1/2019 11:43:58 AM: Making Get User Profile Call..
+2/1/2019 11:43:59 AM: HTTP Status: Forbidden.
+2/1/2019 11:43:59 AM: Bearer,error="insufficient_scope".
+2/1/2019 11:44:07 AM: Performing Revoke tokens..
+2/1/2019 11:44:10 AM: HTTP Status: UnsupportedMediaType.
+2/1/2019 11:44:10 AM: Token revoked..
+2/1/2019 11:44:17 AM: Fetching Discovery Data..
+2/1/2019 11:44:18 AM: Discovery Data obtained..
+2/1/2019 11:44:18 AM: Making Get JWKS Keys Call..
+2/1/2019 11:45:09 AM: JWKS Keys obtained..
+2/1/2019 11:45:11 AM: Intiating OAuth2 call to get code..
+2/1/2019 11:46:52 AM: Authorization code obtained..
+2/1/2019 11:46:52 AM: Exchanging code for tokens..
+2/1/2019 11:46:54 AM: Access token obtained..
+2/1/2019 11:46:54 AM: Making Get User Profile Call..
+2/1/2019 11:46:54 AM: HTTP Status: Forbidden.
+2/1/2019 11:46:54 AM: Bearer,error="insufficient_scope".
+2/1/2019 11:47:03 AM: Performing Revoke tokens..
+2/1/2019 11:47:04 AM: HTTP Status: UnsupportedMediaType.
+2/1/2019 11:47:04 AM: Token revoked..
+4/17/2019 4:29:30 PM: Fetching Discovery Data..
+4/17/2019 4:29:37 PM: Discovery Data obtained..
+4/17/2019 4:29:37 PM: Making Get JWKS Keys Call..
+4/17/2019 4:29:37 PM: JWKS Keys obtained..
+4/17/2019 4:29:37 PM: Intiating OAuth2 call to get code..
+4/17/2019 4:30:02 PM: Fetching Discovery Data..
+4/17/2019 4:30:02 PM: Discovery Data obtained..
+4/17/2019 4:30:02 PM: Making Get JWKS Keys Call..
+4/17/2019 4:30:02 PM: JWKS Keys obtained..
+4/17/2019 4:30:02 PM: Intiating OAuth2 call to get code..
+4/17/2019 4:31:22 PM: Fetching Discovery Data..
+4/17/2019 4:31:22 PM: Discovery Data obtained..
+4/17/2019 4:31:22 PM: Making Get JWKS Keys Call..
+4/17/2019 4:31:22 PM: JWKS Keys obtained..
+4/17/2019 4:31:22 PM: Intiating OAuth2 call to get code..
+4/17/2019 4:31:31 PM: Invalid State.
+4/17/2019 4:31:39 PM: Fetching Discovery Data..
+4/17/2019 4:31:39 PM: Discovery Data obtained..
+4/17/2019 4:31:39 PM: Making Get JWKS Keys Call..
+4/17/2019 4:31:39 PM: JWKS Keys obtained..
+4/17/2019 4:31:39 PM: Intiating OAuth2 call to get code..
+4/17/2019 4:31:43 PM: Authorization code obtained..
+4/17/2019 4:31:43 PM: Exchanging code for tokens..
+4/17/2019 4:31:44 PM: Access token obtained..
+4/17/2019 4:31:44 PM: Making Get User Profile Call..
+4/17/2019 4:31:44 PM: HTTP Status: Forbidden.
+4/17/2019 4:31:44 PM: Bearer,error="insufficient_scope".
+4/17/2019 4:31:52 PM: Making Core API Call..
+4/17/2019 4:31:55 PM: HTTP Status: Conflict.
+4/17/2019 4:31:55 PM: {"Type":"Exception","HelpLink":null,"Message":"invalid where clause. Expected but did not find a closing square bracket after the identifier \"11000.\r\n"}.
+4/17/2019 4:32:06 PM: Making Core API Call..
+4/17/2019 4:32:06 PM: HTTP Status: Conflict.
+4/17/2019 4:32:06 PM: {"Type":"Exception","HelpLink":null,"Message":"invalid where clause. Expected but did not find a closing square bracket after the identifier \"11000.\r\n"}.
+4/17/2019 4:33:02 PM: Performing POST data..
+4/17/2019 4:33:03 PM: Successful POST!.
+4/17/2019 4:33:04 PM: Communication with Core OK..
+4/17/2019 4:33:04 PM: New Record Added..
+4/17/2019 4:33:14 PM: Performing Revoke tokens..
+4/17/2019 4:33:15 PM: HTTP Status: UnsupportedMediaType.
+4/17/2019 4:33:15 PM: Token revoked..
+4/17/2019 4:39:29 PM: Fetching Discovery Data..
+4/17/2019 4:39:31 PM: Discovery Data obtained..
+4/17/2019 4:39:31 PM: Making Get JWKS Keys Call..
+4/17/2019 4:41:47 PM: JWKS Keys obtained..
+4/17/2019 4:43:13 PM: Intiating OAuth2 call to get code..
+4/17/2019 4:45:34 PM: Authorization code obtained..
+4/17/2019 4:45:37 PM: Exchanging code for tokens..
+4/17/2019 4:46:19 PM: Access token obtained..
+4/17/2019 4:46:21 PM: Making Get User Profile Call..
+4/17/2019 4:46:33 PM: HTTP Status: Forbidden.
+4/17/2019 4:46:35 PM: Bearer,error="insufficient_scope".
+4/17/2019 4:47:01 PM: Making Core API Call..
+4/17/2019 4:47:27 PM: HTTP Status: Conflict.
+4/17/2019 4:47:37 PM: {"Type":"Exception","HelpLink":null,"Message":"invalid where clause. Expected but did not find a closing square bracket after the identifier \"11000.\r\n"}.
+4/17/2019 4:47:45 PM: Performing POST data..
+4/17/2019 4:47:47 PM: HTTP Status: Conflict.
+4/17/2019 4:47:47 PM: {"ErrorCode":null,"Type":"ApiException","Key":"AccountList_AccountIDAlreadyExists","HelpLink":"http://bqe.com","Message":"The ACCOUNT NUMBER (10110) is already in use. ","DeveloperMessage":"þErrorCode: \r\nKey: AccountList_AccountIDAlreadyExistsþ\r\nValue: The ACCOUNT NUMBER (#) is already in use.  þ\r\n","StatusCode":409}.
+4/17/2019 4:47:47 PM: New Record Added..
+4/17/2019 4:47:54 PM: Making Core API Call..
+4/17/2019 4:48:14 PM: Communication with Core OK..
+4/17/2019 5:04:06 PM: Fetching Discovery Data..
+4/17/2019 5:04:13 PM: Discovery Data obtained..
+4/17/2019 5:04:13 PM: Making Get JWKS Keys Call..
+4/17/2019 5:04:13 PM: JWKS Keys obtained..
+4/17/2019 5:04:13 PM: Intiating OAuth2 call to get code..
+4/17/2019 5:04:24 PM: Authorization code obtained..
+4/17/2019 5:04:24 PM: Exchanging code for tokens..
+4/17/2019 5:04:25 PM: Access token obtained..
+4/17/2019 5:04:25 PM: Making Get User Profile Call..
+4/17/2019 5:04:25 PM: HTTP Status: Forbidden.
+4/17/2019 5:04:25 PM: Bearer,error="insufficient_scope".
+4/17/2019 5:04:27 PM: Making Core API Call..
+4/17/2019 5:04:29 PM: HTTP Status: Conflict.
+4/17/2019 5:04:29 PM: {"Type":"Exception","HelpLink":null,"Message":"invalid where clause. Expected but did not find a closing square bracket after the identifier \"Accounts Payable.\r\n"}.
+4/17/2019 5:04:31 PM: Making Core API Call..
+4/17/2019 5:04:31 PM: HTTP Status: Conflict.
+4/17/2019 5:04:31 PM: {"Type":"Exception","HelpLink":null,"Message":"invalid where clause. Expected but did not find a closing square bracket after the identifier \"Accounts Payable.\r\n"}.
+4/17/2019 5:04:33 PM: Making Core API Call..
+4/17/2019 5:04:34 PM: HTTP Status: Conflict.
+4/17/2019 5:04:34 PM: {"Type":"Exception","HelpLink":null,"Message":"invalid where clause. Expected but did not find a closing square bracket after the identifier \"Accounts Payable.\r\n"}.
+4/17/2019 5:04:35 PM: Performing Revoke tokens..
+4/17/2019 5:04:36 PM: HTTP Status: UnsupportedMediaType.
+4/17/2019 5:04:36 PM: Token revoked..
+4/17/2019 5:04:40 PM: Fetching Discovery Data..
+4/17/2019 5:04:40 PM: Discovery Data obtained..
+4/17/2019 5:04:40 PM: Making Get JWKS Keys Call..
+4/17/2019 5:04:41 PM: JWKS Keys obtained..
+4/17/2019 5:04:41 PM: Intiating OAuth2 call to get code..
+4/17/2019 5:04:44 PM: Authorization code obtained..
+4/17/2019 5:04:44 PM: Exchanging code for tokens..
+4/17/2019 5:04:45 PM: Access token obtained..
+4/17/2019 5:04:45 PM: Making Get User Profile Call..
+4/17/2019 5:04:45 PM: HTTP Status: Forbidden.
+4/17/2019 5:04:45 PM: Bearer,error="insufficient_scope".
+4/17/2019 5:05:05 PM: Making Core API Call..
+4/17/2019 5:05:23 PM: HTTP Status: Conflict.
+4/17/2019 5:05:42 PM: {"Type":"Exception","HelpLink":null,"Message":"invalid where clause. Expected but did not find a closing square bracket after the identifier \"Accounts Payable.\r\n"}.
+4/17/2019 5:05:45 PM: Making Core API Call..
+4/17/2019 5:06:25 PM: HTTP Status: Conflict.
+4/17/2019 5:06:25 PM: {"Type":"Exception","HelpLink":null,"Message":"invalid where clause. Expected but did not find a closing square bracket after the identifier \"Accounts Payable.\r\n"}.
+4/17/2019 5:07:11 PM: Fetching Discovery Data..
+4/17/2019 5:07:13 PM: Discovery Data obtained..
+4/17/2019 5:07:13 PM: Making Get JWKS Keys Call..
+4/17/2019 5:07:13 PM: JWKS Keys obtained..
+4/17/2019 5:07:13 PM: Intiating OAuth2 call to get code..
+4/17/2019 5:07:18 PM: Authorization code obtained..
+4/17/2019 5:07:18 PM: Exchanging code for tokens..
+4/17/2019 5:07:19 PM: Access token obtained..
+4/17/2019 5:07:19 PM: Making Get User Profile Call..
+4/17/2019 5:07:19 PM: HTTP Status: Forbidden.
+4/17/2019 5:07:19 PM: Bearer,error="insufficient_scope".
+4/17/2019 5:07:21 PM: Making Core API Call..
+4/17/2019 5:07:23 PM: Communication with Core OK..
+4/17/2019 5:15:30 PM: Performing Revoke tokens..
+4/17/2019 5:15:31 PM: HTTP Status: UnsupportedMediaType.
+4/17/2019 5:15:31 PM: Token revoked..
+4/17/2019 5:16:21 PM: Fetching Discovery Data..
+4/17/2019 5:16:21 PM: Discovery Data obtained..
+4/17/2019 5:16:21 PM: Making Get JWKS Keys Call..
+4/17/2019 5:16:22 PM: JWKS Keys obtained..
+4/17/2019 5:16:22 PM: Intiating OAuth2 call to get code..
+4/17/2019 5:16:29 PM: Authorization code obtained..
+4/17/2019 5:16:29 PM: Exchanging code for tokens..
+4/17/2019 5:16:29 PM: Access token obtained..
+4/17/2019 5:16:29 PM: Making Get User Profile Call..
+4/17/2019 5:16:30 PM: HTTP Status: Forbidden.
+4/17/2019 5:16:30 PM: Bearer,error="insufficient_scope".
+4/17/2019 5:16:35 PM: Making Core API Call..
+4/17/2019 5:16:42 PM: Communication with Core OK..
+4/17/2019 5:17:30 PM: Fetching Discovery Data..
+4/17/2019 5:17:32 PM: Discovery Data obtained..
+4/17/2019 5:17:32 PM: Making Get JWKS Keys Call..
+4/17/2019 5:17:32 PM: JWKS Keys obtained..
+4/17/2019 5:17:32 PM: Intiating OAuth2 call to get code..
+4/17/2019 5:17:35 PM: Authorization code obtained..
+4/17/2019 5:17:35 PM: Exchanging code for tokens..
+4/17/2019 5:17:36 PM: Access token obtained..
+4/17/2019 5:17:36 PM: Making Get User Profile Call..
+4/17/2019 5:17:36 PM: HTTP Status: Forbidden.
+4/17/2019 5:17:36 PM: Bearer,error="insufficient_scope".
+4/17/2019 5:17:45 PM: Making Core API Call..
+4/17/2019 5:17:46 PM: HTTP Status: Conflict.
+4/17/2019 5:17:46 PM: {"Type":"Exception","HelpLink":null,"Message":"invalid where clause. Expected but did not find a closing square bracket after the identifier \"Accounts Payable.\r\n"}.
+4/17/2019 5:17:49 PM: Making Core API Call..
+4/17/2019 5:17:49 PM: HTTP Status: Conflict.
+4/17/2019 5:17:49 PM: {"Type":"Exception","HelpLink":null,"Message":"invalid where clause. Expected but did not find a closing square bracket after the identifier \"Accounts Payable.\r\n"}.
+4/17/2019 5:18:26 PM: Fetching Discovery Data..
+4/17/2019 5:18:40 PM: Discovery Data obtained..
+4/17/2019 5:18:40 PM: Making Get JWKS Keys Call..
+4/17/2019 5:18:40 PM: JWKS Keys obtained..
+4/17/2019 5:18:40 PM: Intiating OAuth2 call to get code..
+4/17/2019 5:18:45 PM: Authorization code obtained..
+4/17/2019 5:18:45 PM: Exchanging code for tokens..
+4/17/2019 5:18:46 PM: Access token obtained..
+4/17/2019 5:18:46 PM: Making Get User Profile Call..
+4/17/2019 5:18:47 PM: HTTP Status: Forbidden.
+4/17/2019 5:18:47 PM: Bearer,error="insufficient_scope".
+4/17/2019 5:18:48 PM: Making Core API Call..
+4/17/2019 5:18:50 PM: Communication with Core OK..
+4/17/2019 5:20:17 PM: Fetching Discovery Data..
+4/17/2019 5:20:19 PM: Discovery Data obtained..
+4/17/2019 5:20:19 PM: Making Get JWKS Keys Call..
+4/17/2019 5:20:19 PM: JWKS Keys obtained..
+4/17/2019 5:20:19 PM: Intiating OAuth2 call to get code..
+4/17/2019 5:20:27 PM: Authorization code obtained..
+4/17/2019 5:20:27 PM: Exchanging code for tokens..
+4/17/2019 5:20:28 PM: Access token obtained..
+4/17/2019 5:20:28 PM: Making Get User Profile Call..
+4/17/2019 5:20:28 PM: HTTP Status: Forbidden.
+4/17/2019 5:20:28 PM: Bearer,error="insufficient_scope".
+4/17/2019 5:20:34 PM: Making Core API Call..
+4/17/2019 5:20:47 PM: HTTP Status: Conflict.
+4/17/2019 5:20:47 PM: {"Type":"Exception","HelpLink":null,"Message":"invalid where clause. Expected but did not find a closing square bracket after the identifier \"10110.\r\n"}.
+4/17/2019 5:21:40 PM: Performing Revoke tokens..
+4/17/2019 5:21:41 PM: HTTP Status: UnsupportedMediaType.
+4/17/2019 5:21:41 PM: Token revoked..
+4/17/2019 5:36:17 PM: Fetching Discovery Data..
+4/17/2019 5:36:19 PM: Discovery Data obtained..
+4/17/2019 5:36:19 PM: Making Get JWKS Keys Call..
+4/17/2019 5:36:20 PM: JWKS Keys obtained..
+4/17/2019 5:36:20 PM: Intiating OAuth2 call to get code..
+4/17/2019 5:36:26 PM: Authorization code obtained..
+4/17/2019 5:36:26 PM: Exchanging code for tokens..
+4/17/2019 5:36:26 PM: Access token obtained..
+4/17/2019 5:36:26 PM: Making Get User Profile Call..
+4/17/2019 5:36:27 PM: HTTP Status: Forbidden.
+4/17/2019 5:36:27 PM: Bearer,error="insufficient_scope".
+4/17/2019 5:36:29 PM: Making Core API Call..
+4/17/2019 5:36:38 PM: Communication with Core OK..
+4/17/2019 5:36:54 PM: Performing POST data..
+4/17/2019 5:36:54 PM: HTTP Status: Conflict.
+4/17/2019 5:36:54 PM: {"ErrorCode":null,"Type":"ApiException","Key":"AccountList_AccountIDAlreadyExists","HelpLink":"http://bqe.com","Message":"The ACCOUNT NUMBER (10110) is already in use. ","DeveloperMessage":"þErrorCode: \r\nKey: AccountList_AccountIDAlreadyExistsþ\r\nValue: The ACCOUNT NUMBER (#) is already in use.  þ\r\n","StatusCode":409}.
+4/17/2019 5:36:54 PM: New Record Added..
+4/17/2019 5:37:00 PM: Performing Revoke tokens..
+4/17/2019 5:37:02 PM: HTTP Status: UnsupportedMediaType.
+4/17/2019 5:37:02 PM: Token revoked..
+4/22/2019 5:23:40 PM: Fetching Discovery Data..
+4/22/2019 5:23:47 PM: Discovery Data obtained..
+4/22/2019 5:23:47 PM: Making Get JWKS Keys Call..
+4/22/2019 5:24:04 PM: JWKS Keys obtained..
+4/22/2019 5:24:05 PM: Intiating OAuth2 call to get code..
+4/22/2019 5:24:05 PM: Fetching Discovery Data..
+4/22/2019 5:24:06 PM: Discovery Data obtained..
+4/22/2019 5:24:06 PM: Making Get JWKS Keys Call..
+4/22/2019 5:24:07 PM: JWKS Keys obtained..
+4/22/2019 5:24:07 PM: Intiating OAuth2 call to get code..
+4/22/2019 5:24:44 PM: Authorization code obtained..
+4/22/2019 5:24:44 PM: Exchanging code for tokens..
+4/22/2019 5:24:46 PM: Access token obtained..
+4/22/2019 5:24:47 PM: Making Get User Profile Call..
+4/22/2019 5:24:48 PM: HTTP Status: Forbidden.
+4/22/2019 5:24:48 PM: Bearer,error="insufficient_scope".
+4/22/2019 5:25:01 PM: Performing Revoke tokens..
+4/22/2019 5:26:18 PM: HTTP Status: UnsupportedMediaType.
+4/22/2019 5:26:18 PM: Token revoked..
+5/3/2019 11:00:14 AM: Fetching Discovery Data..
+5/3/2019 11:00:21 AM: Discovery Data obtained..
+5/3/2019 11:00:21 AM: Making Get JWKS Keys Call..
+5/3/2019 11:00:23 AM: JWKS Keys obtained..
+5/3/2019 11:00:24 AM: Intiating OAuth2 call to get code..
+5/27/2019 9:39:48 AM: Fetching Discovery Data..
+5/27/2019 9:39:54 AM: Discovery Data obtained..
+5/27/2019 9:39:54 AM: Making Get JWKS Keys Call..
+5/27/2019 9:39:55 AM: JWKS Keys obtained..
+5/27/2019 9:39:55 AM: Intiating OAuth2 call to get code..
+5/27/2019 9:40:25 AM: Fetching Discovery Data..
+5/27/2019 9:40:25 AM: Discovery Data obtained..
+5/27/2019 9:40:25 AM: Making Get JWKS Keys Call..
+5/27/2019 9:40:25 AM: JWKS Keys obtained..
+5/27/2019 9:40:25 AM: Intiating OAuth2 call to get code..
+5/27/2019 9:55:44 AM: Fetching Discovery Data..
+5/27/2019 9:55:48 AM: Discovery Data obtained..
+5/27/2019 9:55:48 AM: Making Get JWKS Keys Call..
+5/27/2019 9:55:49 AM: JWKS Keys obtained..
+5/27/2019 9:55:49 AM: Intiating OAuth2 call to get code..
+5/28/2019 11:25:04 AM: Fetching Discovery Data..
+5/28/2019 11:25:10 AM: Fetching Discovery Data..
+5/28/2019 11:25:10 AM: Discovery Data obtained..
+5/28/2019 11:25:10 AM: Making Get JWKS Keys Call..
+5/28/2019 11:25:11 AM: JWKS Keys obtained..
+5/28/2019 11:25:11 AM: Intiating OAuth2 call to get code..
+5/28/2019 11:25:11 AM: Discovery Data obtained..
+5/28/2019 11:25:11 AM: Making Get JWKS Keys Call..
+5/28/2019 11:25:12 AM: JWKS Keys obtained..
+5/28/2019 11:25:12 AM: Intiating OAuth2 call to get code..
+5/28/2019 11:39:11 AM: Fetching Discovery Data..
+5/28/2019 11:39:13 AM: Discovery Data obtained..
+5/28/2019 11:39:13 AM: Making Get JWKS Keys Call..
+5/28/2019 11:39:13 AM: JWKS Keys obtained..
+5/28/2019 11:39:17 AM: Intiating OAuth2 call to get code..
+5/28/2019 11:43:29 AM: Fetching Discovery Data..
+5/28/2019 11:43:30 AM: Discovery Data obtained..
+5/28/2019 11:43:30 AM: Making Get JWKS Keys Call..
+5/28/2019 11:43:30 AM: JWKS Keys obtained..
+5/28/2019 11:43:55 AM: Intiating OAuth2 call to get code..
+5/28/2019 11:45:48 AM: Fetching Discovery Data..
+5/28/2019 11:45:50 AM: Discovery Data obtained..
+5/28/2019 11:45:50 AM: Making Get JWKS Keys Call..
+5/28/2019 11:45:50 AM: JWKS Keys obtained..
+5/28/2019 11:45:52 AM: Intiating OAuth2 call to get code..
+5/28/2019 11:46:19 AM: Fetching Discovery Data..
+5/28/2019 11:46:19 AM: Discovery Data obtained..
+5/28/2019 11:46:19 AM: Making Get JWKS Keys Call..
+5/28/2019 11:46:20 AM: JWKS Keys obtained..
+5/28/2019 11:46:21 AM: Intiating OAuth2 call to get code..
+5/28/2019 11:46:56 AM: Fetching Discovery Data..
+5/28/2019 11:46:56 AM: Discovery Data obtained..
+5/28/2019 11:46:56 AM: Making Get JWKS Keys Call..
+5/28/2019 11:46:57 AM: JWKS Keys obtained..
+5/28/2019 11:46:57 AM: Intiating OAuth2 call to get code..
+5/28/2019 11:47:22 AM: Fetching Discovery Data..
+5/28/2019 11:47:29 AM: Discovery Data obtained..
+5/28/2019 11:47:29 AM: Making Get JWKS Keys Call..
+5/28/2019 11:47:29 AM: JWKS Keys obtained..
+5/28/2019 11:47:29 AM: Intiating OAuth2 call to get code..
+5/28/2019 11:48:39 AM: Fetching Discovery Data..
+5/28/2019 11:48:40 AM: Discovery Data obtained..
+5/28/2019 11:48:40 AM: Making Get JWKS Keys Call..
+5/28/2019 11:48:40 AM: JWKS Keys obtained..
+5/28/2019 11:48:40 AM: Intiating OAuth2 call to get code..
+5/28/2019 11:51:30 AM: Fetching Discovery Data..
+5/28/2019 11:51:31 AM: Discovery Data obtained..
+5/28/2019 11:51:32 AM: Making Get JWKS Keys Call..
+5/28/2019 11:51:32 AM: JWKS Keys obtained..
+5/28/2019 11:51:32 AM: Intiating OAuth2 call to get code..
+5/28/2019 11:52:16 AM: Fetching Discovery Data..
+5/28/2019 11:52:16 AM: Discovery Data obtained..
+5/28/2019 11:52:16 AM: Making Get JWKS Keys Call..
+5/28/2019 11:52:16 AM: JWKS Keys obtained..
+5/28/2019 11:52:16 AM: Intiating OAuth2 call to get code..
+5/28/2019 11:52:56 AM: Fetching Discovery Data..
+5/28/2019 11:52:57 AM: Discovery Data obtained..
+5/28/2019 11:52:57 AM: Making Get JWKS Keys Call..
+5/28/2019 11:52:57 AM: JWKS Keys obtained..
+5/28/2019 11:52:57 AM: Intiating OAuth2 call to get code..
+5/28/2019 11:55:04 AM: Fetching Discovery Data..
+5/28/2019 11:55:05 AM: Discovery Data obtained..
+5/28/2019 11:55:05 AM: Making Get JWKS Keys Call..
+5/28/2019 11:55:05 AM: JWKS Keys obtained..
+5/28/2019 11:55:05 AM: Intiating OAuth2 call to get code..
+5/28/2019 11:55:43 AM: Fetching Discovery Data..
+5/28/2019 11:55:43 AM: Discovery Data obtained..
+5/28/2019 11:55:43 AM: Making Get JWKS Keys Call..
+5/28/2019 11:55:44 AM: JWKS Keys obtained..
+5/28/2019 11:55:44 AM: Intiating OAuth2 call to get code..
+5/28/2019 11:56:21 AM: Fetching Discovery Data..
+5/28/2019 11:56:21 AM: Discovery Data obtained..
+5/28/2019 11:56:21 AM: Making Get JWKS Keys Call..
+5/28/2019 11:56:22 AM: JWKS Keys obtained..
+5/28/2019 11:56:58 AM: Intiating OAuth2 call to get code..
+5/28/2019 12:02:42 PM: Fetching Discovery Data..
+5/28/2019 12:02:43 PM: Discovery Data obtained..
+5/28/2019 12:02:43 PM: Making Get JWKS Keys Call..
+5/28/2019 12:02:44 PM: JWKS Keys obtained..
+5/28/2019 12:02:44 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:03:36 PM: Fetching Discovery Data..
+5/28/2019 12:03:37 PM: Discovery Data obtained..
+5/28/2019 12:03:37 PM: Making Get JWKS Keys Call..
+5/28/2019 12:03:37 PM: JWKS Keys obtained..
+5/28/2019 12:03:40 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:06:03 PM: Fetching Discovery Data..
+5/28/2019 12:06:05 PM: Discovery Data obtained..
+5/28/2019 12:06:05 PM: Making Get JWKS Keys Call..
+5/28/2019 12:06:05 PM: JWKS Keys obtained..
+5/28/2019 12:06:05 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:06:14 PM: Fetching Discovery Data..
+5/28/2019 12:06:15 PM: Discovery Data obtained..
+5/28/2019 12:06:15 PM: Making Get JWKS Keys Call..
+5/28/2019 12:06:15 PM: JWKS Keys obtained..
+5/28/2019 12:06:15 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:06:44 PM: Fetching Discovery Data..
+5/28/2019 12:06:45 PM: Discovery Data obtained..
+5/28/2019 12:06:45 PM: Making Get JWKS Keys Call..
+5/28/2019 12:06:45 PM: JWKS Keys obtained..
+5/28/2019 12:06:45 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:06:57 PM: Fetching Discovery Data..
+5/28/2019 12:06:58 PM: Discovery Data obtained..
+5/28/2019 12:06:58 PM: Making Get JWKS Keys Call..
+5/28/2019 12:06:58 PM: JWKS Keys obtained..
+5/28/2019 12:06:58 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:07:57 PM: Fetching Discovery Data..
+5/28/2019 12:07:58 PM: Discovery Data obtained..
+5/28/2019 12:07:58 PM: Making Get JWKS Keys Call..
+5/28/2019 12:07:58 PM: JWKS Keys obtained..
+5/28/2019 12:07:59 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:08:33 PM: Fetching Discovery Data..
+5/28/2019 12:08:33 PM: Discovery Data obtained..
+5/28/2019 12:08:33 PM: Making Get JWKS Keys Call..
+5/28/2019 12:08:33 PM: JWKS Keys obtained..
+5/28/2019 12:08:36 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:09:33 PM: Fetching Discovery Data..
+5/28/2019 12:09:35 PM: Discovery Data obtained..
+5/28/2019 12:09:35 PM: Making Get JWKS Keys Call..
+5/28/2019 12:09:35 PM: JWKS Keys obtained..
+5/28/2019 12:09:36 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:09:59 PM: Authorization code obtained..
+5/28/2019 12:09:59 PM: Exchanging code for tokens..
+5/28/2019 12:10:00 PM: Access token obtained..
+5/28/2019 12:10:00 PM: Making Get User Profile Call..
+5/28/2019 12:10:00 PM: HTTP Status: Forbidden.
+5/28/2019 12:10:00 PM: Bearer,error="insufficient_scope".
+5/28/2019 12:13:11 PM: Fetching Discovery Data..
+5/28/2019 12:13:13 PM: Discovery Data obtained..
+5/28/2019 12:13:13 PM: Making Get JWKS Keys Call..
+5/28/2019 12:13:13 PM: JWKS Keys obtained..
+5/28/2019 12:13:13 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:13:18 PM: Authorization code obtained..
+5/28/2019 12:13:18 PM: Exchanging code for tokens..
+5/28/2019 12:13:18 PM: Access token obtained..
+5/28/2019 12:13:18 PM: Making Get User Profile Call..
+5/28/2019 12:13:19 PM: HTTP Status: Forbidden.
+5/28/2019 12:13:19 PM: Bearer,error="insufficient_scope".
+5/28/2019 12:13:28 PM: Making Core API Call..
+5/28/2019 12:13:29 PM: Communication with Core OK..
+5/28/2019 12:14:41 PM: Fetching Discovery Data..
+5/28/2019 12:14:43 PM: Discovery Data obtained..
+5/28/2019 12:14:43 PM: Making Get JWKS Keys Call..
+5/28/2019 12:14:43 PM: JWKS Keys obtained..
+5/28/2019 12:14:44 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:15:14 PM: Invalid State.
+5/28/2019 12:15:25 PM: Fetching Discovery Data..
+5/28/2019 12:15:25 PM: Discovery Data obtained..
+5/28/2019 12:15:25 PM: Making Get JWKS Keys Call..
+5/28/2019 12:15:25 PM: JWKS Keys obtained..
+5/28/2019 12:15:27 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:15:42 PM: Authorization code obtained..
+5/28/2019 12:15:46 PM: Exchanging code for tokens..
+5/28/2019 12:15:47 PM: Access token obtained..
+5/28/2019 12:15:47 PM: Making Get User Profile Call..
+5/28/2019 12:15:47 PM: HTTP Status: Forbidden.
+5/28/2019 12:15:47 PM: Bearer,error="insufficient_scope".
+5/28/2019 12:16:52 PM: Fetching Discovery Data..
+5/28/2019 12:16:54 PM: Discovery Data obtained..
+5/28/2019 12:16:54 PM: Making Get JWKS Keys Call..
+5/28/2019 12:16:54 PM: JWKS Keys obtained..
+5/28/2019 12:16:54 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:16:58 PM: Authorization code obtained..
+5/28/2019 12:16:58 PM: Exchanging code for tokens..
+5/28/2019 12:16:59 PM: Access token obtained..
+5/28/2019 12:16:59 PM: Making Get User Profile Call..
+5/28/2019 12:16:59 PM: HTTP Status: Forbidden.
+5/28/2019 12:16:59 PM: Bearer,error="insufficient_scope".
+5/28/2019 12:17:42 PM: Performing Revoke tokens..
+5/28/2019 12:17:43 PM: HTTP Status: UnsupportedMediaType.
+5/28/2019 12:17:43 PM: Token revoked..
+5/28/2019 12:18:11 PM: Fetching Discovery Data..
+5/28/2019 12:18:12 PM: Discovery Data obtained..
+5/28/2019 12:18:12 PM: Making Get JWKS Keys Call..
+5/28/2019 12:18:12 PM: JWKS Keys obtained..
+5/28/2019 12:18:13 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:18:20 PM: Authorization code obtained..
+5/28/2019 12:18:24 PM: Exchanging code for tokens..
+5/28/2019 12:18:38 PM: Access token obtained..
+5/28/2019 12:18:39 PM: Making Get User Profile Call..
+5/28/2019 12:19:34 PM: HTTP Status: Forbidden.
+5/28/2019 12:19:35 PM: Bearer,error="insufficient_scope".
+5/28/2019 12:21:06 PM: Fetching Discovery Data..
+5/28/2019 12:21:08 PM: Discovery Data obtained..
+5/28/2019 12:21:08 PM: Making Get JWKS Keys Call..
+5/28/2019 12:21:08 PM: JWKS Keys obtained..
+5/28/2019 12:21:08 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:21:13 PM: Authorization code obtained..
+5/28/2019 12:21:13 PM: Exchanging code for tokens..
+5/28/2019 12:21:14 PM: Access token obtained..
+5/28/2019 12:21:14 PM: Making Get User Profile Call..
+5/28/2019 12:21:14 PM: HTTP Status: Forbidden.
+5/28/2019 12:21:14 PM: Bearer,error="insufficient_scope".
+5/28/2019 12:22:40 PM: Fetching Discovery Data..
+5/28/2019 12:22:41 PM: Discovery Data obtained..
+5/28/2019 12:22:41 PM: Making Get JWKS Keys Call..
+5/28/2019 12:22:41 PM: JWKS Keys obtained..
+5/28/2019 12:22:43 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:23:03 PM: Authorization code obtained..
+5/28/2019 12:23:08 PM: Exchanging code for tokens..
+5/28/2019 12:23:08 PM: Access token obtained..
+5/28/2019 12:23:08 PM: Making Get User Profile Call..
+5/28/2019 12:23:09 PM: HTTP Status: Forbidden.
+5/28/2019 12:23:09 PM: Bearer,error="insufficient_scope".
+5/28/2019 12:26:18 PM: Fetching Discovery Data..
+5/28/2019 12:26:20 PM: Discovery Data obtained..
+5/28/2019 12:26:20 PM: Making Get JWKS Keys Call..
+5/28/2019 12:26:20 PM: JWKS Keys obtained..
+5/28/2019 12:26:30 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:26:47 PM: Authorization code obtained..
+5/28/2019 12:26:48 PM: Exchanging code for tokens..
+5/28/2019 12:26:49 PM: Access token obtained..
+5/28/2019 12:26:49 PM: Making Get User Profile Call..
+5/28/2019 12:26:49 PM: HTTP Status: Forbidden.
+5/28/2019 12:26:49 PM: Bearer,error="insufficient_scope".
+5/28/2019 12:30:05 PM: Fetching Discovery Data..
+5/28/2019 12:30:07 PM: Discovery Data obtained..
+5/28/2019 12:30:07 PM: Making Get JWKS Keys Call..
+5/28/2019 12:30:07 PM: JWKS Keys obtained..
+5/28/2019 12:30:07 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:30:12 PM: Authorization code obtained..
+5/28/2019 12:30:12 PM: Exchanging code for tokens..
+5/28/2019 12:30:13 PM: Access token obtained..
+5/28/2019 12:30:13 PM: Making Get User Profile Call..
+5/28/2019 12:30:13 PM: HTTP Status: Forbidden.
+5/28/2019 12:30:13 PM: Bearer,error="insufficient_scope".
+5/28/2019 12:31:39 PM: Performing Revoke tokens..
+5/28/2019 12:31:40 PM: HTTP Status: UnsupportedMediaType.
+5/28/2019 12:31:40 PM: Token revoked..
+5/28/2019 12:31:48 PM: Fetching Discovery Data..
+5/28/2019 12:31:48 PM: Discovery Data obtained..
+5/28/2019 12:31:48 PM: Making Get JWKS Keys Call..
+5/28/2019 12:31:48 PM: JWKS Keys obtained..
+5/28/2019 12:31:48 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:31:52 PM: Authorization code obtained..
+5/28/2019 12:31:52 PM: Exchanging code for tokens..
+5/28/2019 12:31:53 PM: Access token obtained..
+5/28/2019 12:31:53 PM: Making Get User Profile Call..
+5/28/2019 12:31:53 PM: HTTP Status: Forbidden.
+5/28/2019 12:31:53 PM: Bearer,error="insufficient_scope".
+5/28/2019 12:32:24 PM: Performing Revoke tokens..
+5/28/2019 12:32:26 PM: HTTP Status: UnsupportedMediaType.
+5/28/2019 12:32:26 PM: Token revoked..
+5/28/2019 12:32:31 PM: Fetching Discovery Data..
+5/28/2019 12:32:32 PM: Discovery Data obtained..
+5/28/2019 12:32:32 PM: Making Get JWKS Keys Call..
+5/28/2019 12:32:32 PM: JWKS Keys obtained..
+5/28/2019 12:32:32 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:32:36 PM: Authorization code obtained..
+5/28/2019 12:32:36 PM: Exchanging code for tokens..
+5/28/2019 12:32:37 PM: Access token obtained..
+5/28/2019 12:32:37 PM: Making Get User Profile Call..
+5/28/2019 12:32:37 PM: HTTP Status: Forbidden.
+5/28/2019 12:32:37 PM: Bearer,error="insufficient_scope".
+5/28/2019 12:32:53 PM: Performing Revoke tokens..
+5/28/2019 12:32:55 PM: HTTP Status: UnsupportedMediaType.
+5/28/2019 12:32:55 PM: Token revoked..
+5/28/2019 12:35:15 PM: Fetching Discovery Data..
+5/28/2019 12:35:16 PM: Discovery Data obtained..
+5/28/2019 12:35:16 PM: Making Get JWKS Keys Call..
+5/28/2019 12:35:17 PM: JWKS Keys obtained..
+5/28/2019 12:35:17 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:35:21 PM: Authorization code obtained..
+5/28/2019 12:35:21 PM: Exchanging code for tokens..
+5/28/2019 12:35:22 PM: Access token obtained..
+5/28/2019 12:35:22 PM: Making Get User Profile Call..
+5/28/2019 12:35:22 PM: HTTP Status: Forbidden.
+5/28/2019 12:35:22 PM: Bearer,error="insufficient_scope".
+5/28/2019 12:35:30 PM: Performing Revoke tokens..
+5/28/2019 12:35:31 PM: HTTP Status: UnsupportedMediaType.
+5/28/2019 12:35:31 PM: Token revoked..
+5/28/2019 12:39:20 PM: Fetching Discovery Data..
+5/28/2019 12:39:22 PM: Discovery Data obtained..
+5/28/2019 12:39:22 PM: Making Get JWKS Keys Call..
+5/28/2019 12:39:22 PM: JWKS Keys obtained..
+5/28/2019 12:39:22 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:39:24 PM: Fetching Discovery Data..
+5/28/2019 12:39:25 PM: Discovery Data obtained..
+5/28/2019 12:39:25 PM: Making Get JWKS Keys Call..
+5/28/2019 12:39:25 PM: JWKS Keys obtained..
+5/28/2019 12:39:25 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:39:33 PM: Fetching Discovery Data..
+5/28/2019 12:39:34 PM: Discovery Data obtained..
+5/28/2019 12:39:34 PM: Making Get JWKS Keys Call..
+5/28/2019 12:39:34 PM: JWKS Keys obtained..
+5/28/2019 12:39:34 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:40:49 PM: Fetching Discovery Data..
+5/28/2019 12:40:50 PM: Discovery Data obtained..
+5/28/2019 12:40:50 PM: Making Get JWKS Keys Call..
+5/28/2019 12:40:51 PM: JWKS Keys obtained..
+5/28/2019 12:40:51 PM: Intiating OAuth2 call to get code..
+5/28/2019 12:41:09 PM: Authorization code obtained..
+5/28/2019 12:41:20 PM: Exchanging code for tokens..
+5/28/2019 12:41:21 PM: Access token obtained..
+5/28/2019 12:41:21 PM: Making Get User Profile Call..
+5/28/2019 12:41:21 PM: HTTP Status: Forbidden.
+5/28/2019 12:41:21 PM: Bearer,error="insufficient_scope".
+5/28/2019 1:53:05 PM: Fetching Discovery Data..
+5/28/2019 1:53:12 PM: Discovery Data obtained..
+5/28/2019 1:53:12 PM: Making Get JWKS Keys Call..
+5/28/2019 1:53:12 PM: JWKS Keys obtained..
+5/28/2019 1:53:12 PM: Intiating OAuth2 call to get code..
+5/28/2019 1:56:57 PM: Fetching Discovery Data..
+5/28/2019 1:57:03 PM: Discovery Data obtained..
+5/28/2019 1:57:03 PM: Making Get JWKS Keys Call..
+5/28/2019 1:57:04 PM: JWKS Keys obtained..
+5/28/2019 1:57:04 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:08:20 PM: Fetching Discovery Data..
+5/28/2019 2:08:22 PM: Discovery Data obtained..
+5/28/2019 2:08:22 PM: Making Get JWKS Keys Call..
+5/28/2019 2:08:22 PM: JWKS Keys obtained..
+5/28/2019 2:08:22 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:10:43 PM: Fetching Discovery Data..
+5/28/2019 2:10:44 PM: Discovery Data obtained..
+5/28/2019 2:10:44 PM: Making Get JWKS Keys Call..
+5/28/2019 2:10:44 PM: JWKS Keys obtained..
+5/28/2019 2:10:44 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:10:49 PM: Invalid State.
+5/28/2019 2:10:57 PM: Fetching Discovery Data..
+5/28/2019 2:10:57 PM: Discovery Data obtained..
+5/28/2019 2:10:57 PM: Making Get JWKS Keys Call..
+5/28/2019 2:10:58 PM: JWKS Keys obtained..
+5/28/2019 2:10:58 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:11:04 PM: Authorization code obtained..
+5/28/2019 2:11:04 PM: Exchanging code for tokens..
+5/28/2019 2:11:05 PM: Access token obtained..
+5/28/2019 2:11:05 PM: Making Get User Profile Call..
+5/28/2019 2:11:05 PM: HTTP Status: Forbidden.
+5/28/2019 2:11:05 PM: Bearer,error="insufficient_scope".
+5/28/2019 2:11:16 PM: Making Core API Call..
+5/28/2019 2:11:25 PM: Communication with Core OK..
+5/28/2019 2:11:28 PM: Making Core API Call..
+5/28/2019 2:11:29 PM: Communication with Core OK..
+5/28/2019 2:11:38 PM: Performing POST data..
+5/28/2019 2:11:39 PM: HTTP Status: Conflict.
+5/28/2019 2:11:39 PM: {"ErrorCode":null,"Type":"ApiException","Key":"AccountList_AccountIDAlreadyExists","HelpLink":"http://bqe.com","Message":"The ACCOUNT NUMBER (10110) is already in use. ","DeveloperMessage":"þErrorCode: \r\nKey: AccountList_AccountIDAlreadyExistsþ\r\nValue: The ACCOUNT NUMBER (#) is already in use.  þ\r\n","StatusCode":409}.
+5/28/2019 2:11:39 PM: New Record Added..
+5/28/2019 2:12:32 PM: Fetching Discovery Data..
+5/28/2019 2:12:33 PM: Discovery Data obtained..
+5/28/2019 2:12:33 PM: Making Get JWKS Keys Call..
+5/28/2019 2:12:34 PM: JWKS Keys obtained..
+5/28/2019 2:12:34 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:12:37 PM: Authorization code obtained..
+5/28/2019 2:12:37 PM: Exchanging code for tokens..
+5/28/2019 2:12:38 PM: Access token obtained..
+5/28/2019 2:12:38 PM: Making Get User Profile Call..
+5/28/2019 2:12:38 PM: HTTP Status: Forbidden.
+5/28/2019 2:12:38 PM: Bearer,error="insufficient_scope".
+5/28/2019 2:12:47 PM: Making Core API Call..
+5/28/2019 2:12:51 PM: Communication with Core OK..
+5/28/2019 2:13:38 PM: Fetching Discovery Data..
+5/28/2019 2:13:39 PM: Discovery Data obtained..
+5/28/2019 2:13:39 PM: Making Get JWKS Keys Call..
+5/28/2019 2:13:40 PM: JWKS Keys obtained..
+5/28/2019 2:13:40 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:13:43 PM: Authorization code obtained..
+5/28/2019 2:13:43 PM: Exchanging code for tokens..
+5/28/2019 2:13:44 PM: Access token obtained..
+5/28/2019 2:13:44 PM: Making Get User Profile Call..
+5/28/2019 2:13:44 PM: HTTP Status: Forbidden.
+5/28/2019 2:13:44 PM: Bearer,error="insufficient_scope".
+5/28/2019 2:13:51 PM: Making Core API Call..
+5/28/2019 2:13:53 PM: Communication with Core OK..
+5/28/2019 2:17:37 PM: Fetching Discovery Data..
+5/28/2019 2:17:38 PM: Discovery Data obtained..
+5/28/2019 2:17:38 PM: Making Get JWKS Keys Call..
+5/28/2019 2:17:38 PM: JWKS Keys obtained..
+5/28/2019 2:17:38 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:17:44 PM: Authorization code obtained..
+5/28/2019 2:17:44 PM: Exchanging code for tokens..
+5/28/2019 2:17:45 PM: Access token obtained..
+5/28/2019 2:17:45 PM: Making Get User Profile Call..
+5/28/2019 2:17:45 PM: HTTP Status: Forbidden.
+5/28/2019 2:17:45 PM: Bearer,error="insufficient_scope".
+5/28/2019 2:18:06 PM: Making Core API Call..
+5/28/2019 2:18:08 PM: Communication with Core OK..
+5/28/2019 2:27:31 PM: Performing Revoke tokens..
+5/28/2019 2:27:32 PM: HTTP Status: UnsupportedMediaType.
+5/28/2019 2:27:33 PM: Token revoked..
+5/28/2019 2:27:37 PM: Fetching Discovery Data..
+5/28/2019 2:27:37 PM: Discovery Data obtained..
+5/28/2019 2:27:37 PM: Making Get JWKS Keys Call..
+5/28/2019 2:27:37 PM: JWKS Keys obtained..
+5/28/2019 2:27:38 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:28:53 PM: Fetching Discovery Data..
+5/28/2019 2:28:53 PM: Discovery Data obtained..
+5/28/2019 2:28:54 PM: Making Get JWKS Keys Call..
+5/28/2019 2:28:54 PM: JWKS Keys obtained..
+5/28/2019 2:29:00 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:31:10 PM: Fetching Discovery Data..
+5/28/2019 2:31:11 PM: Discovery Data obtained..
+5/28/2019 2:31:11 PM: Making Get JWKS Keys Call..
+5/28/2019 2:31:12 PM: JWKS Keys obtained..
+5/28/2019 2:31:12 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:32:02 PM: Fetching Discovery Data..
+5/28/2019 2:32:03 PM: Discovery Data obtained..
+5/28/2019 2:32:03 PM: Making Get JWKS Keys Call..
+5/28/2019 2:32:04 PM: JWKS Keys obtained..
+5/28/2019 2:32:04 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:32:13 PM: Authorization code obtained..
+5/28/2019 2:32:13 PM: Exchanging code for tokens..
+5/28/2019 2:32:14 PM: Access token obtained..
+5/28/2019 2:32:14 PM: Making Get User Profile Call..
+5/28/2019 2:32:14 PM: HTTP Status: Forbidden.
+5/28/2019 2:32:14 PM: Bearer,error="insufficient_scope".
+5/28/2019 2:32:39 PM: Performing Revoke tokens..
+5/28/2019 2:32:41 PM: HTTP Status: UnsupportedMediaType.
+5/28/2019 2:32:41 PM: Token revoked..
+5/28/2019 2:32:47 PM: Fetching Discovery Data..
+5/28/2019 2:32:48 PM: Discovery Data obtained..
+5/28/2019 2:32:48 PM: Making Get JWKS Keys Call..
+5/28/2019 2:32:48 PM: JWKS Keys obtained..
+5/28/2019 2:32:48 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:32:51 PM: Authorization code obtained..
+5/28/2019 2:32:51 PM: Exchanging code for tokens..
+5/28/2019 2:32:52 PM: Access token obtained..
+5/28/2019 2:32:52 PM: Making Get User Profile Call..
+5/28/2019 2:32:52 PM: HTTP Status: Forbidden.
+5/28/2019 2:32:52 PM: Bearer,error="insufficient_scope".
+5/28/2019 2:32:59 PM: Making Core API Call..
+5/28/2019 2:33:02 PM: Communication with Core OK..
+5/28/2019 2:33:04 PM: Making Core API Call..
+5/28/2019 2:33:04 PM: Communication with Core OK..
+5/28/2019 2:34:31 PM: Making Core API Call..
+5/28/2019 2:34:31 PM: Communication with Core OK..
+5/28/2019 2:35:42 PM: Making Core API Call..
+5/28/2019 2:35:43 PM: Communication with Core OK..
+5/28/2019 2:37:10 PM: Fetching Discovery Data..
+5/28/2019 2:37:12 PM: Discovery Data obtained..
+5/28/2019 2:37:12 PM: Making Get JWKS Keys Call..
+5/28/2019 2:37:12 PM: JWKS Keys obtained..
+5/28/2019 2:37:12 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:37:17 PM: Authorization code obtained..
+5/28/2019 2:37:17 PM: Exchanging code for tokens..
+5/28/2019 2:37:18 PM: Access token obtained..
+5/28/2019 2:37:18 PM: Making Get User Profile Call..
+5/28/2019 2:37:18 PM: HTTP Status: Forbidden.
+5/28/2019 2:37:18 PM: Bearer,error="insufficient_scope".
+5/28/2019 2:37:25 PM: Making Core API Call..
+5/28/2019 2:37:27 PM: Communication with Core OK..
+5/28/2019 2:45:57 PM: Fetching Discovery Data..
+5/28/2019 2:45:59 PM: Discovery Data obtained..
+5/28/2019 2:45:59 PM: Making Get JWKS Keys Call..
+5/28/2019 2:46:00 PM: JWKS Keys obtained..
+5/28/2019 2:46:03 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:46:34 PM: Authorization code obtained..
+5/28/2019 2:46:35 PM: Exchanging code for tokens..
+5/28/2019 2:46:36 PM: Access token obtained..
+5/28/2019 2:46:36 PM: Making Get User Profile Call..
+5/28/2019 2:46:36 PM: HTTP Status: Forbidden.
+5/28/2019 2:46:36 PM: Bearer,error="insufficient_scope".
+5/28/2019 2:52:53 PM: Performing Revoke tokens..
+5/28/2019 2:52:55 PM: HTTP Status: UnsupportedMediaType.
+5/28/2019 2:52:55 PM: Token revoked..
+5/28/2019 2:53:00 PM: Fetching Discovery Data..
+5/28/2019 2:53:00 PM: Discovery Data obtained..
+5/28/2019 2:53:00 PM: Making Get JWKS Keys Call..
+5/28/2019 2:53:01 PM: JWKS Keys obtained..
+5/28/2019 2:53:02 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:53:09 PM: Authorization code obtained..
+5/28/2019 2:53:13 PM: Exchanging code for tokens..
+5/28/2019 2:53:14 PM: Access token obtained..
+5/28/2019 2:53:14 PM: Making Get User Profile Call..
+5/28/2019 2:53:15 PM: HTTP Status: Forbidden.
+5/28/2019 2:53:15 PM: Bearer,error="insufficient_scope".
+5/28/2019 2:54:40 PM: Fetching Discovery Data..
+5/28/2019 2:54:42 PM: Discovery Data obtained..
+5/28/2019 2:54:42 PM: Making Get JWKS Keys Call..
+5/28/2019 2:54:42 PM: JWKS Keys obtained..
+5/28/2019 2:54:47 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:54:54 PM: Fetching Discovery Data..
+5/28/2019 2:54:58 PM: Discovery Data obtained..
+5/28/2019 2:54:59 PM: Making Get JWKS Keys Call..
+5/28/2019 2:55:02 PM: JWKS Keys obtained..
+5/28/2019 2:55:02 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:55:26 PM: Invalid State.
+5/28/2019 2:55:51 PM: Fetching Discovery Data..
+5/28/2019 2:55:51 PM: Discovery Data obtained..
+5/28/2019 2:55:51 PM: Making Get JWKS Keys Call..
+5/28/2019 2:55:52 PM: JWKS Keys obtained..
+5/28/2019 2:55:53 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:55:59 PM: Authorization code obtained..
+5/28/2019 2:56:01 PM: Exchanging code for tokens..
+5/28/2019 2:56:01 PM: Access token obtained..
+5/28/2019 2:56:01 PM: Making Get User Profile Call..
+5/28/2019 2:56:02 PM: HTTP Status: Forbidden.
+5/28/2019 2:56:02 PM: Bearer,error="insufficient_scope".
+5/28/2019 2:57:22 PM: Fetching Discovery Data..
+5/28/2019 2:57:24 PM: Discovery Data obtained..
+5/28/2019 2:57:24 PM: Making Get JWKS Keys Call..
+5/28/2019 2:57:24 PM: JWKS Keys obtained..
+5/28/2019 2:57:24 PM: Intiating OAuth2 call to get code..
+5/28/2019 2:57:34 PM: Authorization code obtained..
+5/28/2019 2:57:34 PM: Exchanging code for tokens..
+5/28/2019 2:57:35 PM: Access token obtained..
+5/28/2019 2:57:35 PM: Making Get User Profile Call..
+5/28/2019 2:57:35 PM: HTTP Status: Forbidden.
+5/28/2019 2:57:35 PM: Bearer,error="insufficient_scope".
+5/28/2019 2:57:42 PM: Making Core API Call..
+5/28/2019 2:57:44 PM: Communication with Core OK..
+5/28/2019 2:58:38 PM: Making Core API Call..
+5/28/2019 2:58:53 PM: Communication with Core OK..
+5/28/2019 3:00:03 PM: Fetching Discovery Data..
+5/28/2019 3:00:04 PM: Discovery Data obtained..
+5/28/2019 3:00:04 PM: Making Get JWKS Keys Call..
+5/28/2019 3:00:05 PM: JWKS Keys obtained..
+5/28/2019 3:00:05 PM: Intiating OAuth2 call to get code..
+5/28/2019 3:00:13 PM: Authorization code obtained..
+5/28/2019 3:00:13 PM: Exchanging code for tokens..
+5/28/2019 3:00:13 PM: Access token obtained..
+5/28/2019 3:00:13 PM: Making Get User Profile Call..
+5/28/2019 3:00:14 PM: HTTP Status: Forbidden.
+5/28/2019 3:00:14 PM: Bearer,error="insufficient_scope".
+5/28/2019 3:00:16 PM: Performing Revoke tokens..
+5/28/2019 3:00:17 PM: HTTP Status: UnsupportedMediaType.
+5/28/2019 3:00:17 PM: Token revoked..
+5/28/2019 3:00:19 PM: Fetching Discovery Data..
+5/28/2019 3:00:20 PM: Discovery Data obtained..
+5/28/2019 3:00:20 PM: Making Get JWKS Keys Call..
+5/28/2019 3:00:20 PM: JWKS Keys obtained..
+5/28/2019 3:00:20 PM: Intiating OAuth2 call to get code..
+5/28/2019 3:00:24 PM: Authorization code obtained..
+5/28/2019 3:00:24 PM: Exchanging code for tokens..
+5/28/2019 3:00:24 PM: Access token obtained..
+5/28/2019 3:00:24 PM: Making Get User Profile Call..
+5/28/2019 3:00:25 PM: HTTP Status: Forbidden.
+5/28/2019 3:00:25 PM: Bearer,error="insufficient_scope".
+5/28/2019 3:00:27 PM: Making Core API Call..
+5/28/2019 3:00:30 PM: Communication with Core OK..
+5/28/2019 3:03:42 PM: Fetching Discovery Data..
+5/28/2019 3:03:43 PM: Discovery Data obtained..
+5/28/2019 3:03:43 PM: Making Get JWKS Keys Call..
+5/28/2019 3:03:44 PM: JWKS Keys obtained..
+5/28/2019 3:03:44 PM: Intiating OAuth2 call to get code..
+5/28/2019 3:06:03 PM: Fetching Discovery Data..
+5/28/2019 3:06:05 PM: Discovery Data obtained..
+5/28/2019 3:06:05 PM: Making Get JWKS Keys Call..
+5/28/2019 3:06:05 PM: JWKS Keys obtained..
+5/28/2019 3:06:05 PM: Intiating OAuth2 call to get code..
+5/28/2019 3:06:18 PM: Fetching Discovery Data..
+5/28/2019 3:06:18 PM: Discovery Data obtained..
+5/28/2019 3:06:18 PM: Making Get JWKS Keys Call..
+5/28/2019 3:06:18 PM: JWKS Keys obtained..
+5/28/2019 3:06:18 PM: Intiating OAuth2 call to get code..

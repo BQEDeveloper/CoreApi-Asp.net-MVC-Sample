@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BQE.Core.OAuth2.SampleMVCApp.DotNet", "BQE.Core.OAuth2.SampleMVCApp.DotNet\BQE.Core.OAuth2.SampleMVCApp.DotNet.csproj", "{0FBF7DCF-257A-46B2-8C99-FC7D67DDCF9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FBF7DCF-257A-46B2-8C99-FC7D67DDCF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FBF7DCF-257A-46B2-8C99-FC7D67DDCF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FBF7DCF-257A-46B2-8C99-FC7D67DDCF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FBF7DCF-257A-46B2-8C99-FC7D67DDCF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73374C14-D70E-47BA-8703-68D2019EDCFB}
+	EndGlobalSection
+EndGlobal
