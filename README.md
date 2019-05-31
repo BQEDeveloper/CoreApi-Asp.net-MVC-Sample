@@ -36,4 +36,4 @@ We allow the following simple filters on different endpoints:
   * Order By - To specify by which field you want to order the item list
   * Page - To specify the page number and number of records on each page
   
-Core API allows operators to manipulate individual data items and return a result set. To know more go to[Core operators](https://api-explorer.bqecore.com/docs/filtering#filter-operators)
+Core API allows operators to manipulate individual data items and return a result set. To know more go to [Core operators](https://api-explorer.bqecore.com/docs/filtering#filter-operators)
