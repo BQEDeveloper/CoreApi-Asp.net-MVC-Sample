@@ -25,7 +25,7 @@ All the configuration of this app is located in web.config. Its values must matc
 
   1. Authorization
   2. Authentication
-  3. Account - Add and Create
+  3. Account - Create and Retrieve
   
 ### Querying
 
