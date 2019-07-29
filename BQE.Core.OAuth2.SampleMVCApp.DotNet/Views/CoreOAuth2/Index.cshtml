@@ -147,7 +147,7 @@
                         @Html.ActionLink("Add New Account", "CoreAPIPOST_Click", "CoreOAuth2", null, new { @class = "button margin-right-10" })
                         @Html.ActionLink("Disconnect", "Disconnect_Click", "CoreOAuth2", null, new { @class = "button button-secondary" })
 
-                        @if (ViewBag.ShowCoreResponse == true)
+                        @if (ViewBag.ShowCoreResponse == true || (TempData["ShowCoreResponse"] != null && (bool)TempData["ShowCoreResponse"]))
                         {
                             <div id="coreResponse" class="server-response">
                                 <div class="heading flex-columnwise">
@@ -159,7 +159,7 @@
                                 <div class="code-toolbar">
                                     <pre class="language-json">
                                     <code class="language-json">
-                                    <label ID="lblCoreCall">@ViewBag.LabelCoreCall</label>
+                                        <label ID="lblCoreCall">@(ViewBag.LabelCoreCall ?? TempData["LabelCoreCall"])" </label>
                                         </code>
                                     </pre>
                                 </div>
@@ -171,7 +171,7 @@
                     </div>
                 }
 
-                @if (ViewBag.ShowSignInwithBQE == true)
+                            @if (ViewBag.ShowSignInwithBQE == true)
                 {
                     <div id="signInwithBQE" class="connected-state">
                         <p class="success-message">

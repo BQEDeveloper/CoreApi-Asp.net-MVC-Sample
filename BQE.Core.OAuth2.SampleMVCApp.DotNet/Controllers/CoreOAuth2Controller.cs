@@ -317,6 +317,13 @@ namespace BQE.Core.OAuth2.SampleMVCApp.DotNet.Controllers
                 lblCoreCall.Text = "SIWC call does not returns companyId for Core api call";
             }*/
             //return View("Index");
+
+            TempData["ShowCoreResponse"] = ViewBag.ShowCoreResponse;
+            TempData["LabelCoreCall"] = ViewBag.LabelCoreCall;
+            
+            TempData.Keep("ShowLabelConnected");
+            TempData.Keep("LabelCoreCall");
+
             return RedirectToAction("Index");
 
         }
@@ -1100,7 +1107,7 @@ namespace BQE.Core.OAuth2.SampleMVCApp.DotNet.Controllers
                     string encodedQuery = WebUtility.UrlEncode(query);
 
                     //add Corebase url and query
-                    string uri = string.Format("https://{0}/api/account/query", coreBaseUrl);
+                    var uri = $"{coreBaseUrl}/api/account/query";
 
                     if (!string.IsNullOrEmpty(encodedQuery)) uri += "?where=" + encodedQuery;
 
@@ -1198,12 +1205,15 @@ namespace BQE.Core.OAuth2.SampleMVCApp.DotNet.Controllers
         {
             LogMessage("Performing POST data.");
 
+            var randomizer = new Random();
+            var nextValue = randomizer.Next(100, 99999);
+
             // build the object
-            string requestBody = "{\"code\":\"10110\",\"type\":1,\"name\":\"Test Account3\",\"displayAccount\":\"10000 - Test Account\",\"description\":\"Accounts Test\",\"level\":0,\"rootAccountId\":null," +
+            string requestBody = "{\"code\":\"" + nextValue + "\",\"type\":1,\"name\":\"Test Account" + nextValue +"\",\"displayAccount\":\"10000 - Test Account\",\"description\":\"Accounts Test\",\"level\":0,\"rootAccountId\":null," +
                 "\"isActive\":true,\"parentAccountId\":null,\"parentAccount\":null,\"openingBalance\":0.00000000,\"openingBalanceAsOf\":null,\"routingNumber\":null,\"runningBalance\":118737.5800}";
 
             //add Corebase url and query
-            string uri = string.Format("https://{0}/api/account", coreBaseUrl);
+            var uri = $"{coreBaseUrl}/api/account";
 
             // send the post request
             HttpWebRequest CoreApiRequest = (HttpWebRequest)WebRequest.Create(uri);
