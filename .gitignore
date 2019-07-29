@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages/bootstrap.3.4.1
+.vs/BQE.Core.OAuth2.SampleMVCApp.DotNet/v15/.suo
+.vs/BQE.Core.OAuth2.SampleMVCApp.DotNet/v15/.suo
+.vs/BQE.Core.OAuth2.SampleMVCApp.DotNet/v15/Server/sqlite3/storage.ide-shm
+BQE.Core.OAuth2.SampleMVCApp.DotNet/bin/BQE.Core.OAuth2.SampleMVCApp.DotNet.dll
+BQE.Core.OAuth2.SampleMVCApp.DotNet/bin/BQE.Core.OAuth2.SampleMVCApp.DotNet.pdb
+BQE.Core.OAuth2.SampleMVCApp.DotNet/obj/Debug/BQE.Core.OAuth2.SampleMVCApp.DotNet.csproj.CoreCompileInputs.cache
+BQE.Core.OAuth2.SampleMVCApp.DotNet/obj/Debug/BQE.Core.OAuth2.SampleMVCApp.DotNet.csproj.FileListAbsolute.txt
+BQE.Core.OAuth2.SampleMVCApp.DotNet/obj/Debug/BQE.Core.OAuth2.SampleMVCApp.DotNet.dll
+BQE.Core.OAuth2.SampleMVCApp.DotNet/obj/Debug/BQE.Core.OAuth2.SampleMVCApp.DotNet.pdb
