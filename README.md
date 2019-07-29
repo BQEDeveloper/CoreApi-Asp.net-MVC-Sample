@@ -15,7 +15,7 @@ Before getting started, it might be helpful to have a basic understanding of OAu
 To successfully run this app, you need the following:
   * A Core [developer](https://api-developer.bqecore.com/webapp) account
   * An app on Developer Portal and the associated client_id, client_secret and redirect_uri
-  * Core Sandbox/Production company
+  * Core company
   
 ### Run Your Application:
 
