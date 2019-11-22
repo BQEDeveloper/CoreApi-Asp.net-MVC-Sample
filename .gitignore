@@ -10,3 +10,4 @@ BQE.Core.OAuth2.SampleMVCApp.DotNet/bin/BQE.Core.OAuth2.SampleMVCApp.DotNet.dll
 BQE.Core.OAuth2.SampleMVCApp.DotNet/bin/BQE.Core.OAuth2.SampleMVCApp.DotNet.pdb
 BQE.Core.OAuth2.SampleMVCApp.DotNet/obj/*
 BQE.Core.OAuth2.SampleMVCApp.DotNet/bin/*
+*.suo
