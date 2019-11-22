@@ -20,7 +20,7 @@ namespace BQE.Core.OAuth2.SampleMVCApp.DotNet.Controllers
         static string redirectURI = ConfigurationManager.AppSettings["redirectURI"];
         static string discoveryURI = ConfigurationManager.AppSettings["discoveryURI"];
         static string clientID = ConfigurationManager.AppSettings["clientID"];
-        static string clientSecret = ConfigurationManager.AppSettings["clientSecret"];
+        static string Secret = ConfigurationManager.AppSettings["Secret"];
         static string coreIdentityUrl = ConfigurationManager.AppSettings["coreIdentityUrl"];
         static string coreBaseUrl = ConfigurationManager.AppSettings["coreBaseUrl"];
         static string logPath = ConfigurationManager.AppSettings["coreMessageLogPath"];
@@ -509,7 +509,7 @@ namespace BQE.Core.OAuth2.SampleMVCApp.DotNet.Controllers
             string access_token = "";
             bool isTokenValid = false;
 
-            string cred = string.Format("{0}:{1}", clientID, clientSecret);
+            string cred = string.Format("{0}:{1}", clientID, Secret);
             string enc = Convert.ToBase64String(Encoding.ASCII.GetBytes(cred));
             string basicAuth = string.Format("{0} {1}", "Basic", enc);
 
@@ -845,7 +845,7 @@ namespace BQE.Core.OAuth2.SampleMVCApp.DotNet.Controllers
         {
             LogMessage("Exchanging refresh token for access token.");//refresh token is valid for 100days and access token for 1hr
             string access_token = "";
-            string cred = string.Format("{0}:{1}", clientID, clientSecret);
+            string cred = string.Format("{0}:{1}", clientID, Secret);
             string enc = Convert.ToBase64String(Encoding.ASCII.GetBytes(cred));
             string basicAuth = string.Format("{0} {1}", "Basic", enc);
 
@@ -948,7 +948,7 @@ namespace BQE.Core.OAuth2.SampleMVCApp.DotNet.Controllers
         {
             LogMessage("Performing Revoke tokens.");
 
-            string cred = string.Format("{0}:{1}", clientID, clientSecret);
+            string cred = string.Format("{0}:{1}", clientID, Secret);
             string enc = Convert.ToBase64String(Encoding.ASCII.GetBytes(cred));
             string basicAuth = string.Format("{0} {1}", "Basic", enc);
 
@@ -987,7 +987,7 @@ namespace BQE.Core.OAuth2.SampleMVCApp.DotNet.Controllers
                 }
                 else if (response.StatusCode == HttpStatusCode.BadRequest)//400
                 {
-                    LogMessage("One or more of BearerToken, RefreshToken, ClientId or, ClientSecret are incorrect.");
+                    LogMessage("One or more of BearerToken, RefreshToken, ClientId or, Secret are incorrect.");
                 }
                 else if (response.StatusCode == HttpStatusCode.Unauthorized)//401
                 {
