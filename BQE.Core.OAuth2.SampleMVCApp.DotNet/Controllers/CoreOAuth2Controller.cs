@@ -1107,7 +1107,7 @@ namespace BQE.Core.OAuth2.SampleMVCApp.DotNet.Controllers
                     string encodedQuery = WebUtility.UrlEncode(query);
 
                     //add Corebase url and query
-                    var uri = $"{coreBaseUrl}/api/account/query";
+                    var uri = $"{coreBaseUrl}/api/account";
 
                     if (!string.IsNullOrEmpty(encodedQuery)) uri += "?where=" + encodedQuery;
 
